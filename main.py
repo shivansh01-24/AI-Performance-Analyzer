@@ -12,6 +12,10 @@ import sys
 from pathlib import Path
 
 VERSION = (Path(__file__).parent / "VERSION").read_text(encoding="utf-8").strip()
+from src.logger import get_logger
+
+logger = get_logger(__name__)
+
 
 
 # ================================================
@@ -20,18 +24,14 @@ VERSION = (Path(__file__).parent / "VERSION").read_text(encoding="utf-8").strip(
 try:
     from src.dashboard import app
 except ImportError as e:
-    print("\n" + "="*60)
-    print(" ERROR: Dashboard could not be loaded!")
-    print(" Make sure all files in 'src/' folder are created.")
-    print(f" ImportError: {e}")
-    print("="*60 + "\n")
+    logger.error("Dashboard could not be loaded. Ensure all files in 'src/' exist.")
+    logger.exception(e)
     sys.exit(1)
 except Exception as e:
-    print("\n" + "="*60)
-    print(" FATAL ERROR: Something went wrong while starting the app.")
-    print(f" Error: {e}")
-    print("="*60 + "\n")
+    logger.error("Fatal error while starting the app.")
+    logger.exception(e)
     sys.exit(1)
+
 
 # ================================================
 # UNICODE-SAFE BANNER (Works on all terminals)
@@ -58,7 +58,7 @@ def print_banner():
 if __name__ == '__main__':
     print_banner()
     print(f" Version: {VERSION}")
-    print(" Starting the dashboard...")
+    logger.info("Starting AI Performance Analyzer dashboard at http://127.0.0.1:5000")
     print(" Open your browser and go to: http://127.0.0.1:5000")
     print(" Press Ctrl+C to stop the analyzer.\n")
     
@@ -69,6 +69,7 @@ if __name__ == '__main__':
         print("\n\nAnalyzer stopped by user. Bye!")
     except Exception as e:
         print(f"\nServer crashed: {e}")
+
 
 
 
