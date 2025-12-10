@@ -1,9 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-AI-Powered OS Process Analyzer – FINAL BULLETPROOF VERSION
-CSE316 Operating Systems Project | LPU 24252
-30/30 + Bonus Marks + Teacher Shocked Guaranteed
+AI-Powered OS Process Analyzer
+
+Entry point for the AI Performance Analyzer dashboard application.
+Provides a web-based interface for real-time OS/process monitoring,
+anomaly detection, and performance insights.
 """
+
 
 import sys
 from pathlib import Path
@@ -66,5 +69,6 @@ if __name__ == '__main__':
         print("\n\nAnalyzer stopped by user. Bye!")
     except Exception as e:
         print(f"\nServer crashed: {e}")
+
 
 
