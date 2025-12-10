@@ -8,3 +8,6 @@ numpy>=1.24.0
 
 # Optional (GPU detection – safe if missing)
 GPUtil>=1.4.0
+
+pytest
+pytest-mock
