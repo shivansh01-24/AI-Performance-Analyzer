@@ -1,0 +1,1502 @@
+11:31:10 | Code.exe (PID 6140) | CPU:0.1% RAM:816MB Score:-0.1171
+11:31:10 | chrome.exe (PID 14712) | CPU:0.0% RAM:531MB Score:-0.0535
+11:31:10 | Code.exe (PID 19412) | CPU:0.0% RAM:328MB Score:-0.0731
+11:31:10 | chrome.exe (PID 22588) | CPU:0.0% RAM:252MB Score:-0.0111
+11:31:10 | Code.exe (PID 17496) | CPU:0.0% RAM:201MB Score:-0.0086
+11:31:10 | System (PID 4) | CPU:13.3% RAM:4MB Score:-0.1961
+11:31:10 | System Idle Process (PID 0) | CPU:1761.5% RAM:0MB Score:-0.2322
+11:31:10 | Code.exe (PID 15704) | CPU:0.1% RAM:835MB Score:-0.001
+11:31:10 | Code.exe (PID 6140) | CPU:0.0% RAM:816MB Score:-0.0943
+11:31:10 | chrome.exe (PID 14712) | CPU:13.0% RAM:524MB Score:-0.0903
+11:31:10 | Code.exe (PID 19412) | CPU:0.0% RAM:323MB Score:-0.0597
+11:31:10 | Code.exe (PID 17496) | CPU:1.6% RAM:201MB Score:-0.0258
+11:31:10 | System (PID 4) | CPU:0.0% RAM:4MB Score:-0.1663
+11:31:10 | System Idle Process (PID 0) | CPU:1877.9% RAM:0MB Score:-0.2185
+11:31:10 | Code.exe (PID 15704) | CPU:0.0% RAM:835MB Score:-0.002
+11:31:10 | Code.exe (PID 6140) | CPU:0.9% RAM:816MB Score:-0.1104
+11:31:10 | chrome.exe (PID 14712) | CPU:3.3% RAM:524MB Score:-0.0838
+11:31:10 | Code.exe (PID 19412) | CPU:0.0% RAM:328MB Score:-0.0637
+11:31:10 | Code.exe (PID 17496) | CPU:2.0% RAM:201MB Score:-0.0288
+11:31:10 | System (PID 4) | CPU:1.5% RAM:4MB Score:-0.1785
+11:31:10 | System Idle Process (PID 0) | CPU:1881.0% RAM:0MB Score:-0.2224
+11:31:10 | Code.exe (PID 6140) | CPU:0.6% RAM:816MB Score:-0.1059
+11:31:10 | chrome.exe (PID 14712) | CPU:2.7% RAM:524MB Score:-0.0755
+11:31:10 | Code.exe (PID 19412) | CPU:0.0% RAM:328MB Score:-0.0677
+11:31:10 | chrome.exe (PID 22588) | CPU:0.0% RAM:223MB Score:-0.0003
+11:31:10 | Code.exe (PID 17496) | CPU:2.3% RAM:201MB Score:-0.0295
+11:31:10 | System (PID 4) | CPU:7.3% RAM:4MB Score:-0.1917
+11:31:10 | System Idle Process (PID 0) | CPU:1824.8% RAM:0MB Score:-0.2285
+11:31:10 | Code.exe (PID 6140) | CPU:0.6% RAM:816MB Score:-0.1076
+11:31:10 | chrome.exe (PID 14712) | CPU:3.8% RAM:526MB Score:-0.0669
+11:31:10 | Code.exe (PID 19412) | CPU:0.0% RAM:323MB Score:-0.0555
+11:31:10 | Code.exe (PID 17496) | CPU:2.7% RAM:201MB Score:-0.0129
+11:31:10 | nvcontainer.exe (PID 21164) | CPU:6.4% RAM:89MB Score:-0.0155
+11:31:10 | System (PID 4) | CPU:8.6% RAM:4MB Score:-0.1699
+11:31:10 | System Idle Process (PID 0) | CPU:1826.0% RAM:0MB Score:-0.207
+11:31:10 | Code.exe (PID 6140) | CPU:0.5% RAM:816MB Score:-0.0886
+11:31:10 | Code.exe (PID 14980) | CPU:7.3% RAM:655MB Score:-0.0001
+11:31:10 | chrome.exe (PID 14712) | CPU:3.4% RAM:528MB Score:-0.0696
+11:31:10 | Code.exe (PID 19412) | CPU:0.0% RAM:323MB Score:-0.0628
+11:31:10 | Code.exe (PID 17496) | CPU:1.5% RAM:199MB Score:-0.0211
+11:31:10 | System (PID 4) | CPU:6.1% RAM:4MB Score:-0.174
+11:31:10 | System Idle Process (PID 0) | CPU:1792.7% RAM:0MB Score:-0.2084
+11:31:10 | Code.exe (PID 15704) | CPU:0.0% RAM:835MB Score:-0.009
+11:31:10 | Code.exe (PID 6140) | CPU:0.0% RAM:816MB Score:-0.1081
+11:31:10 | chrome.exe (PID 14712) | CPU:0.0% RAM:528MB Score:-0.0453
+11:31:10 | Code.exe (PID 19412) | CPU:0.0% RAM:323MB Score:-0.06
+11:31:10 | chrome.exe (PID 22588) | CPU:0.0% RAM:224MB Score:-0.0026
+11:31:10 | System (PID 4) | CPU:1.0% RAM:4MB Score:-0.1851
+11:31:10 | System Idle Process (PID 0) | CPU:1802.9% RAM:0MB Score:-0.2119
+11:35:34 | Code.exe (PID 15704) | CPU:0.3% RAM:836MB Score:-0.002
+11:35:34 | Code.exe (PID 6140) | CPU:0.5% RAM:792MB Score:-0.0848
+11:35:34 | chrome.exe (PID 14712) | CPU:10.3% RAM:517MB Score:-0.0657
+11:35:34 | Code.exe (PID 19412) | CPU:2.0% RAM:318MB Score:-0.0773
+11:35:34 | chrome.exe (PID 22588) | CPU:3.0% RAM:290MB Score:-0.017
+11:35:34 | System (PID 4) | CPU:14.3% RAM:4MB Score:-0.1848
+11:35:34 | System Idle Process (PID 0) | CPU:1677.7% RAM:0MB Score:-0.2091
+11:35:36 | Code.exe (PID 6140) | CPU:0.7% RAM:792MB Score:-0.0827
+11:35:36 | chrome.exe (PID 14712) | CPU:10.8% RAM:524MB Score:-0.0775
+11:35:36 | Code.exe (PID 19412) | CPU:2.1% RAM:318MB Score:-0.0685
+11:35:36 | chrome.exe (PID 22588) | CPU:4.2% RAM:278MB Score:-0.0198
+11:35:36 | Code.exe (PID 17496) | CPU:1.4% RAM:178MB Score:-0.0037
+11:35:36 | System (PID 4) | CPU:14.2% RAM:4MB Score:-0.1732
+11:35:36 | System Idle Process (PID 0) | CPU:1669.0% RAM:0MB Score:-0.206
+11:35:48 | Code.exe (PID 15704) | CPU:0.3% RAM:836MB Score:-0.0101
+11:35:48 | Code.exe (PID 6140) | CPU:0.5% RAM:791MB Score:-0.0809
+11:35:48 | chrome.exe (PID 14712) | CPU:33.7% RAM:627MB Score:-0.1016
+11:35:48 | chrome.exe (PID 22588) | CPU:8.8% RAM:356MB Score:-0.052
+11:35:48 | Code.exe (PID 19412) | CPU:1.6% RAM:318MB Score:-0.072
+11:35:48 | System (PID 4) | CPU:13.5% RAM:4MB Score:-0.1668
+11:35:48 | System Idle Process (PID 0) | CPU:1703.3% RAM:0MB Score:-0.1993
+11:35:49 | Code.exe (PID 15704) | CPU:0.4% RAM:836MB Score:-0.0018
+11:35:49 | Code.exe (PID 6140) | CPU:0.5% RAM:791MB Score:-0.0777
+11:35:49 | chrome.exe (PID 14712) | CPU:35.9% RAM:624MB Score:-0.0981
+11:35:49 | chrome.exe (PID 22588) | CPU:8.6% RAM:344MB Score:-0.0339
+11:35:49 | Code.exe (PID 19412) | CPU:1.3% RAM:318MB Score:-0.0579
+11:35:49 | System (PID 4) | CPU:12.9% RAM:4MB Score:-0.1581
+11:35:49 | System Idle Process (PID 0) | CPU:1706.6% RAM:0MB Score:-0.1971
+11:35:49 | Code.exe (PID 15704) | CPU:0.5% RAM:836MB Score:-0.0025
+11:35:49 | Code.exe (PID 6140) | CPU:0.5% RAM:791MB Score:-0.0825
+11:35:49 | chrome.exe (PID 14712) | CPU:46.0% RAM:568MB Score:-0.0932
+11:35:49 | chrome.exe (PID 22588) | CPU:10.9% RAM:362MB Score:-0.0368
+11:35:49 | Code.exe (PID 19412) | CPU:0.0% RAM:318MB Score:-0.0498
+11:35:49 | System (PID 4) | CPU:11.3% RAM:4MB Score:-0.156
+11:35:49 | System Idle Process (PID 0) | CPU:1734.2% RAM:0MB Score:-0.2002
+11:35:49 | Code.exe (PID 6140) | CPU:0.2% RAM:791MB Score:-0.0781
+11:35:49 | chrome.exe (PID 14712) | CPU:59.7% RAM:568MB Score:-0.0809
+11:35:49 | chrome.exe (PID 22588) | CPU:11.0% RAM:364MB Score:-0.03
+11:35:49 | Code.exe (PID 19412) | CPU:0.0% RAM:318MB Score:-0.0564
+11:35:49 | Code.exe (PID 17496) | CPU:0.1% RAM:178MB Score:-0.0011
+11:35:49 | System (PID 4) | CPU:8.3% RAM:4MB Score:-0.155
+11:35:49 | System Idle Process (PID 0) | CPU:1802.2% RAM:0MB Score:-0.1962
+11:37:27 | Code.exe (PID 6140) | CPU:0.0% RAM:792MB Score:-0.0513
+11:37:27 | chrome.exe (PID 14712) | CPU:0.5% RAM:569MB Score:-0.0252
+11:37:27 | chrome.exe (PID 22588) | CPU:15.2% RAM:431MB Score:-0.058
+11:37:27 | chrome.exe (PID 21284) | CPU:11.4% RAM:339MB Score:-0.0594
+11:37:27 | Code.exe (PID 19412) | CPU:0.0% RAM:313MB Score:-0.0374
+11:37:27 | System (PID 4) | CPU:8.1% RAM:4MB Score:-0.1583
+11:37:27 | System Idle Process (PID 0) | CPU:1780.9% RAM:0MB Score:-0.202
+11:37:27 | Code.exe (PID 6140) | CPU:0.0% RAM:791MB Score:-0.0675
+11:37:27 | chrome.exe (PID 14712) | CPU:0.0% RAM:569MB Score:-0.0208
+11:37:27 | chrome.exe (PID 22588) | CPU:5.2% RAM:440MB Score:-0.043
+11:37:27 | chrome.exe (PID 21284) | CPU:6.2% RAM:338MB Score:-0.0506
+11:37:27 | Code.exe (PID 19412) | CPU:0.0% RAM:313MB Score:-0.0409
+11:37:27 | System (PID 4) | CPU:4.4% RAM:4MB Score:-0.1484
+11:37:27 | System Idle Process (PID 0) | CPU:883.9% RAM:0MB Score:-0.1953
+11:37:27 | Code.exe (PID 6140) | CPU:3.4% RAM:792MB Score:-0.0665
+11:37:27 | chrome.exe (PID 14712) | CPU:0.0% RAM:569MB Score:-0.0048
+11:37:27 | chrome.exe (PID 22588) | CPU:4.5% RAM:446MB Score:-0.0278
+11:37:27 | chrome.exe (PID 21284) | CPU:2.7% RAM:339MB Score:-0.0333
+11:37:27 | Code.exe (PID 19412) | CPU:0.0% RAM:313MB Score:-0.0255
+11:37:27 | System (PID 4) | CPU:28.1% RAM:4MB Score:-0.1509
+11:37:27 | System Idle Process (PID 0) | CPU:1739.9% RAM:0MB Score:-0.1854
+11:37:27 | Code.exe (PID 6140) | CPU:0.0% RAM:792MB Score:-0.0715
+11:37:27 | chrome.exe (PID 14712) | CPU:2.0% RAM:569MB Score:-0.0404
+11:37:27 | chrome.exe (PID 22588) | CPU:0.0% RAM:434MB Score:-0.019
+11:37:27 | chrome.exe (PID 21284) | CPU:2.2% RAM:338MB Score:-0.0434
+11:37:27 | Code.exe (PID 19412) | CPU:0.0% RAM:313MB Score:-0.0389
+11:37:27 | System (PID 4) | CPU:10.4% RAM:4MB Score:-0.1703
+11:37:27 | System Idle Process (PID 0) | CPU:1909.1% RAM:0MB Score:-0.1985
+11:37:27 | Code.exe (PID 6140) | CPU:0.0% RAM:792MB Score:-0.0552
+11:37:27 | chrome.exe (PID 14712) | CPU:0.0% RAM:569MB Score:-0.0107
+11:37:27 | chrome.exe (PID 22588) | CPU:3.2% RAM:434MB Score:-0.0246
+11:37:27 | chrome.exe (PID 21284) | CPU:3.4% RAM:336MB Score:-0.023
+11:37:27 | Code.exe (PID 19412) | CPU:0.0% RAM:313MB Score:-0.0168
+11:37:27 | System (PID 4) | CPU:7.1% RAM:4MB Score:-0.144
+11:37:27 | System Idle Process (PID 0) | CPU:1608.0% RAM:0MB Score:-0.1919
+11:37:27 | Code.exe (PID 6140) | CPU:0.3% RAM:792MB Score:-0.0584
+11:37:27 | chrome.exe (PID 14712) | CPU:12.9% RAM:572MB Score:-0.0429
+11:37:27 | chrome.exe (PID 22588) | CPU:0.0% RAM:434MB Score:-0.0025
+11:37:27 | chrome.exe (PID 21284) | CPU:9.5% RAM:338MB Score:-0.0356
+11:37:27 | Code.exe (PID 19412) | CPU:0.0% RAM:313MB Score:-0.0165
+11:37:27 | System (PID 4) | CPU:12.5% RAM:4MB Score:-0.1431
+11:37:27 | System Idle Process (PID 0) | CPU:2326.9% RAM:0MB Score:-0.1816
+11:38:23 | Code.exe (PID 6140) | CPU:1.3% RAM:792MB Score:-0.0577
+11:38:23 | chrome.exe (PID 14712) | CPU:70.7% RAM:586MB Score:-0.0965
+11:38:23 | chrome.exe (PID 22588) | CPU:2.0% RAM:376MB Score:-0.0302
+11:38:23 | Code.exe (PID 19412) | CPU:18.8% RAM:341MB Score:-0.058
+11:38:23 | chrome.exe (PID 21284) | CPU:2.3% RAM:337MB Score:-0.0422
+11:38:23 | System (PID 4) | CPU:6.4% RAM:4MB Score:-0.1614
+11:38:23 | System Idle Process (PID 0) | CPU:1838.7% RAM:0MB Score:-0.198
+11:38:23 | Code.exe (PID 6140) | CPU:1.1% RAM:792MB Score:-0.0622
+11:38:23 | chrome.exe (PID 14712) | CPU:48.5% RAM:593MB Score:-0.0928
+11:38:23 | chrome.exe (PID 22588) | CPU:0.9% RAM:376MB Score:-0.0337
+11:38:23 | Code.exe (PID 19412) | CPU:13.6% RAM:339MB Score:-0.0577
+11:38:23 | chrome.exe (PID 21284) | CPU:0.8% RAM:337MB Score:-0.0336
+11:38:23 | System (PID 4) | CPU:16.6% RAM:4MB Score:-0.1668
+11:38:23 | System Idle Process (PID 0) | CPU:1637.5% RAM:0MB Score:-0.2079
+11:38:23 | Code.exe (PID 6140) | CPU:0.0% RAM:792MB Score:-0.0721
+11:38:23 | chrome.exe (PID 14712) | CPU:52.5% RAM:609MB Score:-0.0955
+11:38:23 | chrome.exe (PID 21284) | CPU:0.9% RAM:337MB Score:-0.0532
+11:38:23 | Code.exe (PID 19412) | CPU:0.0% RAM:329MB Score:-0.0417
+11:38:23 | chrome.exe (PID 22588) | CPU:0.4% RAM:329MB Score:-0.0358
+11:38:23 | System (PID 4) | CPU:3.9% RAM:4MB Score:-0.1554
+11:38:23 | System Idle Process (PID 0) | CPU:1629.8% RAM:0MB Score:-0.2075
+11:38:23 | Code.exe (PID 6140) | CPU:0.0% RAM:792MB Score:-0.0633
+11:38:23 | chrome.exe (PID 14712) | CPU:51.8% RAM:608MB Score:-0.0926
+11:38:23 | chrome.exe (PID 21284) | CPU:0.0% RAM:337MB Score:-0.033
+11:38:23 | Code.exe (PID 19412) | CPU:4.7% RAM:329MB Score:-0.0561
+11:38:23 | chrome.exe (PID 22588) | CPU:0.0% RAM:329MB Score:-0.0274
+11:38:23 | System (PID 4) | CPU:6.2% RAM:4MB Score:-0.1723
+11:38:23 | System Idle Process (PID 0) | CPU:1692.6% RAM:0MB Score:-0.2068
+11:38:23 | Code.exe (PID 6140) | CPU:1.3% RAM:792MB Score:-0.0411
+11:38:23 | chrome.exe (PID 14712) | CPU:57.4% RAM:609MB Score:-0.0588
+11:38:23 | Code.exe (PID 19412) | CPU:22.9% RAM:338MB Score:-0.0452
+11:38:23 | chrome.exe (PID 21284) | CPU:1.3% RAM:337MB Score:-0.0106
+11:38:23 | chrome.exe (PID 22588) | CPU:0.0% RAM:329MB Score:-0.0032
+11:38:23 | System (PID 4) | CPU:11.2% RAM:4MB Score:-0.1386
+11:38:23 | System Idle Process (PID 0) | CPU:1776.9% RAM:0MB Score:-0.1789
+11:38:23 | Code.exe (PID 6140) | CPU:0.0% RAM:792MB Score:-0.0547
+11:38:23 | chrome.exe (PID 14712) | CPU:65.3% RAM:611MB Score:-0.0719
+11:38:23 | Code.exe (PID 19412) | CPU:18.2% RAM:338MB Score:-0.0501
+11:38:23 | chrome.exe (PID 21284) | CPU:0.0% RAM:337MB Score:-0.0282
+11:38:23 | Code.exe (PID 17496) | CPU:5.9% RAM:182MB Score:-0.0042
+11:38:23 | System (PID 4) | CPU:15.6% RAM:4MB Score:-0.1489
+11:38:23 | System Idle Process (PID 0) | CPU:1740.7% RAM:0MB Score:-0.1935
+11:39:02 | Code.exe (PID 6140) | CPU:0.0% RAM:792MB Score:-0.0581
+11:39:02 | chrome.exe (PID 14712) | CPU:3.0% RAM:574MB Score:-0.0346
+11:39:02 | Code.exe (PID 19412) | CPU:4.5% RAM:352MB Score:-0.041
+11:39:02 | chrome.exe (PID 21284) | CPU:0.4% RAM:337MB Score:-0.0177
+11:39:02 | chrome.exe (PID 22588) | CPU:0.6% RAM:330MB Score:-0.0149
+11:39:02 | System (PID 4) | CPU:7.7% RAM:4MB Score:-0.1553
+11:39:02 | System Idle Process (PID 0) | CPU:1771.4% RAM:0MB Score:-0.1923
+11:39:02 | Code.exe (PID 6140) | CPU:0.0% RAM:792MB Score:-0.0658
+11:39:02 | chrome.exe (PID 14712) | CPU:57.5% RAM:575MB Score:-0.0836
+11:39:02 | Code.exe (PID 19412) | CPU:6.7% RAM:353MB Score:-0.041
+11:39:02 | chrome.exe (PID 21284) | CPU:0.0% RAM:329MB Score:-0.0098
+11:39:02 | chrome.exe (PID 22588) | CPU:0.0% RAM:317MB Score:-0.0149
+11:39:02 | System (PID 4) | CPU:4.4% RAM:4MB Score:-0.1525
+11:39:02 | System Idle Process (PID 0) | CPU:1866.9% RAM:0MB Score:-0.1987
+11:39:02 | Code.exe (PID 6140) | CPU:0.0% RAM:792MB Score:-0.0681
+11:39:02 | chrome.exe (PID 14712) | CPU:0.0% RAM:573MB Score:-0.0211
+11:39:02 | Code.exe (PID 19412) | CPU:2.7% RAM:353MB Score:-0.0575
+11:39:02 | chrome.exe (PID 21284) | CPU:0.5% RAM:336MB Score:-0.0262
+11:39:02 | chrome.exe (PID 22588) | CPU:0.5% RAM:324MB Score:-0.0214
+11:39:02 | System (PID 4) | CPU:21.6% RAM:4MB Score:-0.1692
+11:39:02 | System Idle Process (PID 0) | CPU:1836.9% RAM:0MB Score:-0.199
+11:39:02 | Code.exe (PID 6140) | CPU:0.0% RAM:753MB Score:-0.0331
+11:39:02 | chrome.exe (PID 14712) | CPU:8.3% RAM:550MB Score:-0.0632
+11:39:02 | chrome.exe (PID 22588) | CPU:0.0% RAM:369MB Score:-0.004
+11:39:02 | Code.exe (PID 19412) | CPU:0.0% RAM:363MB Score:-0.0243
+11:39:02 | chrome.exe (PID 21284) | CPU:0.0% RAM:329MB Score:-0.0007
+11:39:02 | System (PID 4) | CPU:0.0% RAM:4MB Score:-0.1342
+11:39:02 | System Idle Process (PID 0) | CPU:1690.9% RAM:0MB Score:-0.1725
+11:39:02 | Code.exe (PID 6140) | CPU:0.4% RAM:753MB Score:-0.0594
+11:39:02 | chrome.exe (PID 14712) | CPU:47.4% RAM:550MB Score:-0.0734
+11:39:02 | chrome.exe (PID 22588) | CPU:4.2% RAM:369MB Score:-0.0342
+11:39:02 | Code.exe (PID 19412) | CPU:8.3% RAM:363MB Score:-0.0529
+11:39:02 | chrome.exe (PID 21284) | CPU:2.9% RAM:329MB Score:-0.0376
+11:39:02 | System (PID 4) | CPU:5.5% RAM:4MB Score:-0.1571
+11:39:02 | System Idle Process (PID 0) | CPU:1826.4% RAM:0MB Score:-0.1956
+11:39:02 | Code.exe (PID 6140) | CPU:0.0% RAM:753MB Score:-0.0485
+11:39:02 | chrome.exe (PID 14712) | CPU:2.7% RAM:550MB Score:-0.0332
+11:39:02 | chrome.exe (PID 22588) | CPU:1.9% RAM:369MB Score:-0.0219
+11:39:02 | Code.exe (PID 19412) | CPU:11.8% RAM:363MB Score:-0.064
+11:39:02 | chrome.exe (PID 21284) | CPU:1.5% RAM:329MB Score:-0.0232
+11:39:02 | System (PID 4) | CPU:6.8% RAM:4MB Score:-0.1454
+11:39:02 | System Idle Process (PID 0) | CPU:1773.9% RAM:0MB Score:-0.1846
+11:39:48 | Code.exe (PID 6140) | CPU:0.0% RAM:755MB Score:-0.0671
+11:39:48 | chrome.exe (PID 14712) | CPU:45.5% RAM:552MB Score:-0.0648
+11:39:48 | chrome.exe (PID 22588) | CPU:7.3% RAM:382MB Score:-0.0408
+11:39:48 | Code.exe (PID 19412) | CPU:13.9% RAM:370MB Score:-0.0587
+11:39:48 | chrome.exe (PID 21284) | CPU:5.2% RAM:329MB Score:-0.0369
+11:39:48 | System (PID 4) | CPU:8.2% RAM:4MB Score:-0.1655
+11:39:48 | System Idle Process (PID 0) | CPU:1692.3% RAM:0MB Score:-0.1985
+11:39:48 | Code.exe (PID 6140) | CPU:1.8% RAM:755MB Score:-0.0248
+11:39:48 | chrome.exe (PID 14712) | CPU:87.1% RAM:552MB Score:-0.0558
+11:39:48 | Code.exe (PID 19412) | CPU:20.1% RAM:370MB Score:-0.0447
+11:39:48 | chrome.exe (PID 21284) | CPU:1.2% RAM:329MB Score:-0.0093
+11:39:48 | Code.exe (PID 17496) | CPU:40.6% RAM:182MB Score:-0.0092
+11:39:48 | System (PID 4) | CPU:8.2% RAM:4MB Score:-0.1337
+11:39:48 | System Idle Process (PID 0) | CPU:1797.1% RAM:0MB Score:-0.1693
+11:39:48 | Code.exe (PID 6140) | CPU:2.1% RAM:758MB Score:-0.0407
+11:39:48 | chrome.exe (PID 14712) | CPU:65.9% RAM:550MB Score:-0.0555
+11:39:48 | chrome.exe (PID 22588) | CPU:7.0% RAM:379MB Score:-0.016
+11:39:48 | Code.exe (PID 19412) | CPU:11.1% RAM:366MB Score:-0.0376
+11:39:48 | chrome.exe (PID 21284) | CPU:3.7% RAM:330MB Score:-0.0111
+11:39:48 | System (PID 4) | CPU:6.8% RAM:4MB Score:-0.1452
+11:39:48 | System Idle Process (PID 0) | CPU:1897.8% RAM:0MB Score:-0.1737
+11:39:48 | Code.exe (PID 6140) | CPU:0.0% RAM:758MB Score:-0.048
+11:39:48 | chrome.exe (PID 14712) | CPU:8.8% RAM:550MB Score:-0.0341
+11:39:48 | Code.exe (PID 19412) | CPU:29.9% RAM:366MB Score:-0.08
+11:39:48 | chrome.exe (PID 21284) | CPU:0.0% RAM:330MB Score:-0.0116
+11:39:48 | Code.exe (PID 17496) | CPU:8.3% RAM:182MB Score:-0.0054
+11:39:48 | System (PID 4) | CPU:5.6% RAM:4MB Score:-0.1382
+11:39:48 | System Idle Process (PID 0) | CPU:1019.1% RAM:0MB Score:-0.1731
+11:39:48 | Code.exe (PID 6140) | CPU:1.0% RAM:758MB Score:-0.038
+11:39:48 | chrome.exe (PID 14712) | CPU:22.3% RAM:550MB Score:-0.0232
+11:39:48 | Code.exe (PID 19412) | CPU:16.7% RAM:366MB Score:-0.0401
+11:39:48 | chrome.exe (PID 21284) | CPU:3.5% RAM:330MB Score:-0.0111
+11:39:48 | Code.exe (PID 17496) | CPU:44.4% RAM:182MB Score:-0.0225
+11:39:48 | System (PID 4) | CPU:7.1% RAM:4MB Score:-0.1359
+11:39:48 | System Idle Process (PID 0) | CPU:2426.1% RAM:0MB Score:-0.1734
+11:39:48 | Code.exe (PID 6140) | CPU:54.1% RAM:848MB Score:-0.1188
+11:39:48 | chrome.exe (PID 14712) | CPU:3.8% RAM:550MB Score:-0.0444
+11:39:48 | chrome.exe (PID 22588) | CPU:1.9% RAM:371MB Score:-0.0369
+11:39:48 | Code.exe (PID 19412) | CPU:28.2% RAM:366MB Score:-0.0885
+11:39:48 | chrome.exe (PID 21284) | CPU:1.2% RAM:330MB Score:-0.036
+11:39:48 | System (PID 4) | CPU:15.2% RAM:4MB Score:-0.1614
+11:39:48 | System Idle Process (PID 0) | CPU:1916.0% RAM:0MB Score:-0.1918
+11:40:38 | Code.exe (PID 6140) | CPU:1.0% RAM:847MB Score:-0.0706
+11:40:38 | chrome.exe (PID 14712) | CPU:27.5% RAM:514MB Score:-0.0367
+11:40:38 | Code.exe (PID 19412) | CPU:25.8% RAM:400MB Score:-0.0677
+11:40:38 | chrome.exe (PID 21284) | CPU:3.4% RAM:330MB Score:-0.019
+11:40:38 | chrome.exe (PID 22588) | CPU:2.0% RAM:318MB Score:-0.0007
+11:40:38 | Code.exe (PID 17496) | CPU:13.9% RAM:183MB Score:-0.0026
+11:40:38 | System (PID 4) | CPU:6.1% RAM:4MB Score:-0.1495
+11:40:38 | System Idle Process (PID 0) | CPU:1712.6% RAM:0MB Score:-0.1825
+11:40:38 | Code.exe (PID 6140) | CPU:1.9% RAM:847MB Score:-0.0748
+11:40:38 | chrome.exe (PID 14712) | CPU:4.1% RAM:514MB Score:-0.0157
+11:40:38 | Code.exe (PID 19412) | CPU:31.6% RAM:402MB Score:-0.0821
+11:40:38 | chrome.exe (PID 22588) | CPU:1.1% RAM:364MB Score:-0.0004
+11:40:38 | chrome.exe (PID 21284) | CPU:0.0% RAM:330MB Score:-0.0218
+11:40:38 | Code.exe (PID 17496) | CPU:43.8% RAM:183MB Score:-0.0381
+11:40:38 | System (PID 4) | CPU:5.2% RAM:4MB Score:-0.1498
+11:40:38 | System Idle Process (PID 0) | CPU:1944.3% RAM:0MB Score:-0.1929
+11:40:38 | Code.exe (PID 6140) | CPU:0.0% RAM:848MB Score:-0.0801
+11:40:38 | chrome.exe (PID 14712) | CPU:0.0% RAM:513MB Score:-0.0234
+11:40:38 | chrome.exe (PID 22588) | CPU:35.2% RAM:417MB Score:-0.0791
+11:40:38 | Code.exe (PID 19412) | CPU:24.9% RAM:404MB Score:-0.0917
+11:40:38 | chrome.exe (PID 21284) | CPU:0.0% RAM:330MB Score:-0.0347
+11:40:38 | Code.exe (PID 10060) | CPU:14.8% RAM:190MB Score:-0.0003
+11:40:38 | System (PID 4) | CPU:0.0% RAM:4MB Score:-0.1686
+11:40:38 | System Idle Process (PID 0) | CPU:1710.4% RAM:0MB Score:-0.2038
+11:40:38 | Code.exe (PID 6140) | CPU:0.0% RAM:848MB Score:-0.079
+11:40:38 | chrome.exe (PID 14712) | CPU:2.8% RAM:513MB Score:-0.0194
+11:40:38 | chrome.exe (PID 22588) | CPU:11.5% RAM:417MB Score:-0.0454
+11:40:38 | Code.exe (PID 19412) | CPU:5.0% RAM:403MB Score:-0.0605
+11:40:38 | chrome.exe (PID 21284) | CPU:4.6% RAM:330MB Score:-0.0347
+11:40:38 | Code.exe (PID 17496) | CPU:3.6% RAM:183MB Score:-0.0005
+11:40:38 | System (PID 4) | CPU:6.3% RAM:4MB Score:-0.1625
+11:40:38 | System Idle Process (PID 0) | CPU:1773.4% RAM:0MB Score:-0.192
+11:40:38 | Code.exe (PID 6140) | CPU:0.0% RAM:848MB Score:-0.0635
+11:40:38 | chrome.exe (PID 14712) | CPU:0.0% RAM:513MB Score:-0.0009
+11:40:38 | chrome.exe (PID 22588) | CPU:28.6% RAM:417MB Score:-0.0441
+11:40:38 | Code.exe (PID 19412) | CPU:1.3% RAM:397MB Score:-0.0408
+11:40:38 | chrome.exe (PID 21284) | CPU:6.1% RAM:329MB Score:-0.0153
+11:40:38 | Code.exe (PID 17496) | CPU:18.8% RAM:184MB Score:-0.0044
+11:40:38 | System (PID 4) | CPU:10.9% RAM:4MB Score:-0.1466
+11:40:38 | System Idle Process (PID 0) | CPU:1429.2% RAM:0MB Score:-0.1785
+11:40:38 | Code.exe (PID 6140) | CPU:11.0% RAM:848MB Score:-0.0954
+11:40:38 | chrome.exe (PID 14712) | CPU:0.0% RAM:514MB Score:-0.0
+11:40:38 | chrome.exe (PID 22588) | CPU:10.9% RAM:416MB Score:-0.0435
+11:40:38 | Code.exe (PID 19412) | CPU:0.0% RAM:397MB Score:-0.0423
+11:40:38 | chrome.exe (PID 21284) | CPU:0.6% RAM:329MB Score:-0.0222
+11:40:38 | Code.exe (PID 10060) | CPU:43.0% RAM:190MB Score:-0.02
+11:40:38 | System (PID 4) | CPU:6.9% RAM:4MB Score:-0.1662
+11:40:38 | System Idle Process (PID 0) | CPU:1748.3% RAM:0MB Score:-0.1948
+11:41:31 | Code.exe (PID 6140) | CPU:8.9% RAM:852MB Score:-0.0923
+11:41:31 | chrome.exe (PID 14712) | CPU:31.1% RAM:638MB Score:-0.0771
+11:41:31 | Code.exe (PID 19412) | CPU:8.5% RAM:393MB Score:-0.074
+11:41:31 | chrome.exe (PID 22588) | CPU:3.0% RAM:344MB Score:-0.0236
+11:41:31 | chrome.exe (PID 21284) | CPU:5.2% RAM:329MB Score:-0.0384
+11:41:31 | Code.exe (PID 17496) | CPU:6.9% RAM:184MB Score:-0.0008
+11:41:31 | System (PID 4) | CPU:8.3% RAM:4MB Score:-0.1589
+11:41:31 | System Idle Process (PID 0) | CPU:1702.1% RAM:0MB Score:-0.1947
+11:41:31 | Code.exe (PID 6140) | CPU:0.0% RAM:852MB Score:-0.093
+11:41:31 | chrome.exe (PID 14712) | CPU:0.0% RAM:638MB Score:-0.055
+11:41:31 | Code.exe (PID 19412) | CPU:133.0% RAM:409MB Score:-0.1388
+11:41:31 | chrome.exe (PID 22588) | CPU:0.0% RAM:342MB Score:-0.0351
+11:41:31 | chrome.exe (PID 21284) | CPU:0.0% RAM:329MB Score:-0.0507
+11:41:31 | Code.exe (PID 10060) | CPU:6.4% RAM:189MB Score:-0.0
+11:41:31 | System (PID 4) | CPU:14.3% RAM:4MB Score:-0.1858
+11:41:31 | System Idle Process (PID 0) | CPU:1536.6% RAM:0MB Score:-0.2076
+11:41:31 | Code.exe (PID 6140) | CPU:0.0% RAM:852MB Score:-0.0826
+11:41:31 | chrome.exe (PID 14712) | CPU:4.6% RAM:638MB Score:-0.0379
+11:41:31 | Code.exe (PID 19412) | CPU:82.8% RAM:407MB Score:-0.095
+11:41:31 | chrome.exe (PID 22588) | CPU:0.7% RAM:342MB Score:-0.0026
+11:41:31 | chrome.exe (PID 21284) | CPU:2.1% RAM:329MB Score:-0.0353
+11:41:31 | Code.exe (PID 17496) | CPU:25.0% RAM:184MB Score:-0.023
+11:41:31 | System (PID 4) | CPU:11.4% RAM:4MB Score:-0.1525
+11:41:31 | System Idle Process (PID 0) | CPU:1761.0% RAM:0MB Score:-0.1793
+11:41:31 | Code.exe (PID 6140) | CPU:9.8% RAM:835MB Score:-0.0885
+11:41:31 | chrome.exe (PID 14712) | CPU:0.0% RAM:638MB Score:-0.0262
+11:41:31 | Code.exe (PID 19412) | CPU:40.2% RAM:404MB Score:-0.0956
+11:41:31 | chrome.exe (PID 22588) | CPU:0.0% RAM:329MB Score:-0.002
+11:41:31 | chrome.exe (PID 21284) | CPU:1.1% RAM:329MB Score:-0.0258
+11:41:31 | Code.exe (PID 17496) | CPU:16.8% RAM:184MB Score:-0.0189
+11:41:31 | System (PID 4) | CPU:7.1% RAM:4MB Score:-0.1565
+11:41:31 | System Idle Process (PID 0) | CPU:1557.4% RAM:0MB Score:-0.1903
+11:41:31 | Code.exe (PID 6140) | CPU:7.8% RAM:834MB Score:-0.1075
+11:41:31 | chrome.exe (PID 14712) | CPU:2.3% RAM:638MB Score:-0.0571
+11:41:31 | Code.exe (PID 19412) | CPU:8.3% RAM:404MB Score:-0.0855
+11:41:31 | chrome.exe (PID 21284) | CPU:0.0% RAM:329MB Score:-0.0388
+11:41:31 | chrome.exe (PID 22588) | CPU:0.0% RAM:325MB Score:-0.0271
+11:41:31 | Code.exe (PID 10060) | CPU:12.5% RAM:189MB Score:-0.0004
+11:41:31 | System (PID 4) | CPU:12.5% RAM:4MB Score:-0.1709
+11:41:31 | System Idle Process (PID 0) | CPU:1730.2% RAM:0MB Score:-0.1986
+11:41:31 | Code.exe (PID 6140) | CPU:0.0% RAM:835MB Score:-0.1015
+11:41:31 | chrome.exe (PID 14712) | CPU:0.0% RAM:638MB Score:-0.0482
+11:41:31 | Code.exe (PID 19412) | CPU:0.0% RAM:404MB Score:-0.0728
+11:41:31 | chrome.exe (PID 21284) | CPU:0.0% RAM:329MB Score:-0.0434
+11:41:31 | chrome.exe (PID 22588) | CPU:0.0% RAM:325MB Score:-0.0337
+11:41:31 | Code.exe (PID 17496) | CPU:0.0% RAM:184MB Score:-0.0001
+11:41:31 | System (PID 4) | CPU:6.4% RAM:4MB Score:-0.1823
+11:41:31 | System Idle Process (PID 0) | CPU:1537.5% RAM:0MB Score:-0.1981
+11:43:02 | Code.exe (PID 6140) | CPU:0.6% RAM:842MB Score:-0.0773
+11:43:02 | chrome.exe (PID 14712) | CPU:64.5% RAM:668MB Score:-0.0816
+11:43:02 | chrome.exe (PID 22588) | CPU:18.4% RAM:387MB Score:-0.0567
+11:43:02 | Code.exe (PID 19412) | CPU:0.0% RAM:365MB Score:-0.0307
+11:43:02 | chrome.exe (PID 21284) | CPU:0.7% RAM:329MB Score:-0.0081
+11:43:02 | System (PID 4) | CPU:7.6% RAM:4MB Score:-0.1505
+11:43:02 | System Idle Process (PID 0) | CPU:1762.2% RAM:0MB Score:-0.1851
+11:43:02 | Code.exe (PID 6140) | CPU:0.3% RAM:842MB Score:-0.0729
+11:43:02 | chrome.exe (PID 14712) | CPU:105.3% RAM:680MB Score:-0.1186
+11:43:02 | chrome.exe (PID 22588) | CPU:11.9% RAM:392MB Score:-0.0607
+11:43:02 | Code.exe (PID 19412) | CPU:0.0% RAM:365MB Score:-0.0483
+11:43:02 | chrome.exe (PID 21284) | CPU:4.3% RAM:329MB Score:-0.0361
+11:43:02 | System (PID 4) | CPU:8.6% RAM:4MB Score:-0.1591
+11:43:02 | System Idle Process (PID 0) | CPU:1734.8% RAM:0MB Score:-0.1985
+11:43:02 | Code.exe (PID 6140) | CPU:0.0% RAM:842MB Score:-0.0803
+11:43:02 | chrome.exe (PID 14712) | CPU:96.9% RAM:670MB Score:-0.1079
+11:43:02 | chrome.exe (PID 22588) | CPU:10.8% RAM:392MB Score:-0.0748
+11:43:02 | Code.exe (PID 19412) | CPU:0.0% RAM:365MB Score:-0.0531
+11:43:02 | chrome.exe (PID 21284) | CPU:0.0% RAM:329MB Score:-0.0257
+11:43:02 | System (PID 4) | CPU:0.0% RAM:4MB Score:-0.1566
+11:43:02 | System Idle Process (PID 0) | CPU:1773.3% RAM:0MB Score:-0.2032
+11:43:03 | Code.exe (PID 6140) | CPU:0.0% RAM:842MB Score:-0.0789
+11:43:03 | chrome.exe (PID 14712) | CPU:94.3% RAM:672MB Score:-0.11
+11:43:03 | Code.exe (PID 19412) | CPU:0.0% RAM:365MB Score:-0.0509
+11:43:03 | chrome.exe (PID 22588) | CPU:13.0% RAM:361MB Score:-0.0615
+11:43:03 | chrome.exe (PID 21284) | CPU:4.6% RAM:329MB Score:-0.0396
+11:43:03 | System (PID 4) | CPU:1.6% RAM:4MB Score:-0.161
+11:43:03 | System Idle Process (PID 0) | CPU:1376.8% RAM:0MB Score:-0.2023
+11:43:03 | Code.exe (PID 6140) | CPU:0.0% RAM:842MB Score:-0.0646
+11:43:03 | chrome.exe (PID 14712) | CPU:102.9% RAM:672MB Score:-0.0898
+11:43:03 | Code.exe (PID 19412) | CPU:0.0% RAM:365MB Score:-0.0272
+11:43:03 | chrome.exe (PID 22588) | CPU:13.4% RAM:359MB Score:-0.0463
+11:43:03 | chrome.exe (PID 21284) | CPU:12.0% RAM:329MB Score:-0.0246
+11:43:03 | System (PID 4) | CPU:2.9% RAM:4MB Score:-0.1382
+11:43:03 | System Idle Process (PID 0) | CPU:2334.3% RAM:0MB Score:-0.1807
+11:43:03 | Code.exe (PID 6140) | CPU:3.4% RAM:842MB Score:-0.0814
+11:43:03 | chrome.exe (PID 14712) | CPU:110.1% RAM:669MB Score:-0.0996
+11:43:03 | Code.exe (PID 19412) | CPU:0.0% RAM:365MB Score:-0.0389
+11:43:03 | chrome.exe (PID 22588) | CPU:5.6% RAM:359MB Score:-0.043
+11:43:03 | chrome.exe (PID 21284) | CPU:8.6% RAM:329MB Score:-0.0365
+11:43:03 | System (PID 4) | CPU:5.0% RAM:4MB Score:-0.1472
+11:43:03 | System Idle Process (PID 0) | CPU:4041.7% RAM:0MB Score:-0.1927
+11:44:17 | Code.exe (PID 6140) | CPU:0.8% RAM:838MB Score:-0.0954
+11:44:17 | chrome.exe (PID 14712) | CPU:107.3% RAM:748MB Score:-0.1351
+11:44:17 | Code.exe (PID 19412) | CPU:0.0% RAM:358MB Score:-0.0514
+11:44:17 | chrome.exe (PID 22588) | CPU:10.4% RAM:352MB Score:-0.0771
+11:44:17 | chrome.exe (PID 21284) | CPU:8.6% RAM:322MB Score:-0.0551
+11:44:17 | System (PID 4) | CPU:6.2% RAM:4MB Score:-0.1647
+11:44:17 | System Idle Process (PID 0) | CPU:1737.4% RAM:0MB Score:-0.2088
+11:44:18 | chrome.exe (PID 14712) | CPU:0.0% RAM:829MB Score:-0.0865
+11:44:18 | Code.exe (PID 6140) | CPU:0.0% RAM:738MB Score:-0.0894
+11:44:18 | Code.exe (PID 19412) | CPU:16.8% RAM:360MB Score:-0.0948
+11:44:18 | chrome.exe (PID 22588) | CPU:2.5% RAM:345MB Score:-0.0534
+11:44:18 | chrome.exe (PID 21284) | CPU:0.0% RAM:322MB Score:-0.044
+11:44:18 | System (PID 4) | CPU:3.1% RAM:4MB Score:-0.17
+11:44:18 | System Idle Process (PID 0) | CPU:1742.9% RAM:0MB Score:-0.2094
+11:44:18 | chrome.exe (PID 14712) | CPU:71.5% RAM:829MB Score:-0.118
+11:44:18 | Code.exe (PID 6140) | CPU:0.4% RAM:738MB Score:-0.0773
+11:44:18 | Code.exe (PID 19412) | CPU:6.5% RAM:360MB Score:-0.0548
+11:44:18 | chrome.exe (PID 22588) | CPU:8.4% RAM:345MB Score:-0.0563
+11:44:18 | chrome.exe (PID 21284) | CPU:0.7% RAM:322MB Score:-0.0145
+11:44:18 | System (PID 4) | CPU:1.3% RAM:4MB Score:-0.1497
+11:44:18 | System Idle Process (PID 0) | CPU:1763.8% RAM:0MB Score:-0.1951
+11:44:19 | chrome.exe (PID 14712) | CPU:15.2% RAM:829MB Score:-0.0661
+11:44:19 | Code.exe (PID 6140) | CPU:2.2% RAM:738MB Score:-0.0673
+11:44:19 | Code.exe (PID 19412) | CPU:28.0% RAM:361MB Score:-0.061
+11:44:19 | chrome.exe (PID 22588) | CPU:0.0% RAM:345MB Score:-0.0208
+11:44:19 | chrome.exe (PID 21284) | CPU:0.0% RAM:322MB Score:-0.0142
+11:44:19 | System (PID 4) | CPU:4.6% RAM:4MB Score:-0.1378
+11:44:19 | System Idle Process (PID 0) | CPU:1774.0% RAM:0MB Score:-0.1762
+11:44:19 | chrome.exe (PID 14712) | CPU:7.7% RAM:821MB Score:-0.0583
+11:44:19 | Code.exe (PID 6140) | CPU:0.0% RAM:738MB Score:-0.0452
+11:44:19 | Code.exe (PID 19412) | CPU:21.4% RAM:364MB Score:-0.0386
+11:44:19 | chrome.exe (PID 22588) | CPU:0.0% RAM:335MB Score:-0.0084
+11:44:19 | chrome.exe (PID 21284) | CPU:9.4% RAM:323MB Score:-0.0114
+11:44:19 | System (PID 4) | CPU:4.2% RAM:4MB Score:-0.1292
+11:44:19 | System Idle Process (PID 0) | CPU:1700.0% RAM:0MB Score:-0.1653
+11:44:25 | Code.exe (PID 6140) | CPU:10.4% RAM:751MB Score:-0.0911
+11:44:25 | chrome.exe (PID 14712) | CPU:85.7% RAM:740MB Score:-0.1316
+11:44:25 | chrome.exe (PID 22588) | CPU:7.4% RAM:415MB Score:-0.0639
+11:44:25 | Code.exe (PID 19412) | CPU:2.8% RAM:366MB Score:-0.0481
+11:44:25 | chrome.exe (PID 21284) | CPU:4.1% RAM:324MB Score:-0.0378
+11:44:25 | Code.exe (PID 17496) | CPU:3.3% RAM:176MB Score:-0.0004
+11:44:25 | System (PID 4) | CPU:6.8% RAM:4MB Score:-0.163
+11:44:25 | System Idle Process (PID 0) | CPU:1723.4% RAM:0MB Score:-0.2024
+11:44:41 | Code.exe (PID 15704) | CPU:0.0% RAM:835MB Score:-0.0005
+11:44:41 | chrome.exe (PID 14712) | CPU:113.5% RAM:800MB Score:-0.13
+11:44:41 | Code.exe (PID 6140) | CPU:0.9% RAM:752MB Score:-0.0819
+11:44:41 | chrome.exe (PID 22588) | CPU:5.0% RAM:393MB Score:-0.073
+11:44:41 | Code.exe (PID 19412) | CPU:0.2% RAM:366MB Score:-0.0397
+11:44:41 | chrome.exe (PID 21284) | CPU:1.0% RAM:324MB Score:-0.023
+11:44:41 | System (PID 4) | CPU:6.4% RAM:4MB Score:-0.1668
+11:44:41 | System Idle Process (PID 0) | CPU:1716.4% RAM:0MB Score:-0.195
+11:44:55 | Code.exe (PID 15704) | CPU:0.0% RAM:835MB Score:-0.0004
+11:44:55 | Code.exe (PID 6140) | CPU:1.0% RAM:752MB Score:-0.0846
+11:44:55 | chrome.exe (PID 14712) | CPU:99.0% RAM:716MB Score:-0.1218
+11:44:55 | chrome.exe (PID 22588) | CPU:2.9% RAM:374MB Score:-0.0476
+11:44:55 | Code.exe (PID 19412) | CPU:0.0% RAM:364MB Score:-0.0371
+11:44:55 | chrome.exe (PID 21284) | CPU:7.2% RAM:327MB Score:-0.0396
+11:44:55 | System (PID 4) | CPU:4.8% RAM:4MB Score:-0.1641
+11:44:55 | System Idle Process (PID 0) | CPU:1735.4% RAM:0MB Score:-0.2031
+11:45:31 | chrome.exe (PID 19124) | CPU:73.0% RAM:838MB Score:-0.0474
+11:45:31 | Code.exe (PID 6140) | CPU:0.1% RAM:752MB Score:-0.04
+11:45:31 | chrome.exe (PID 14712) | CPU:0.7% RAM:703MB Score:-0.0381
+11:45:31 | Code.exe (PID 19412) | CPU:0.0% RAM:364MB Score:-0.0169
+11:45:31 | chrome.exe (PID 21284) | CPU:0.3% RAM:326MB Score:-0.0027
+11:45:31 | chrome.exe (PID 22588) | CPU:14.9% RAM:321MB Score:-0.0488
+11:45:31 | System (PID 4) | CPU:7.3% RAM:4MB Score:-0.144
+11:45:31 | System Idle Process (PID 0) | CPU:1759.6% RAM:0MB Score:-0.1808
+11:45:31 | chrome.exe (PID 19124) | CPU:136.0% RAM:1069MB Score:-0.0679
+11:45:31 | Code.exe (PID 6140) | CPU:1.7% RAM:752MB Score:-0.0392
+11:45:31 | chrome.exe (PID 14712) | CPU:32.4% RAM:676MB Score:-0.07
+11:45:31 | Code.exe (PID 19412) | CPU:0.0% RAM:364MB Score:-0.0242
+11:45:31 | chrome.exe (PID 22588) | CPU:6.9% RAM:358MB Score:-0.0388
+11:45:31 | chrome.exe (PID 21284) | CPU:1.0% RAM:326MB Score:-0.0038
+11:45:31 | System (PID 4) | CPU:6.5% RAM:4MB Score:-0.152
+11:45:31 | System Idle Process (PID 0) | CPU:1787.1% RAM:0MB Score:-0.183
+11:48:42 | Code.exe (PID 6140) | CPU:0.7% RAM:753MB Score:-0.0644
+11:48:42 | chrome.exe (PID 14712) | CPU:0.1% RAM:677MB Score:-0.0558
+11:48:42 | Code.exe (PID 19412) | CPU:4.4% RAM:362MB Score:-0.0415
+11:48:42 | chrome.exe (PID 21284) | CPU:8.5% RAM:327MB Score:-0.0288
+11:48:42 | chrome.exe (PID 22588) | CPU:6.6% RAM:304MB Score:-0.0407
+11:48:42 | Code.exe (PID 17496) | CPU:10.5% RAM:178MB Score:-0.0015
+11:48:42 | System (PID 4) | CPU:9.6% RAM:4MB Score:-0.1501
+11:48:42 | System Idle Process (PID 0) | CPU:1793.2% RAM:0MB Score:-0.187
+11:49:25 | Code.exe (PID 6140) | CPU:0.0% RAM:735MB Score:-0.0548
+11:49:25 | chrome.exe (PID 14712) | CPU:0.0% RAM:677MB Score:-0.062
+11:49:25 | Code.exe (PID 19412) | CPU:1.7% RAM:363MB Score:-0.0464
+11:49:25 | chrome.exe (PID 21284) | CPU:7.0% RAM:326MB Score:-0.0327
+11:49:25 | chrome.exe (PID 22588) | CPU:27.0% RAM:320MB Score:-0.078
+11:49:25 | System (PID 4) | CPU:5.2% RAM:4MB Score:-0.1544
+11:49:25 | System Idle Process (PID 0) | CPU:1836.0% RAM:0MB Score:-0.1905
+11:49:29 | Code.exe (PID 6140) | CPU:0.2% RAM:732MB Score:-0.0326
+11:49:29 | chrome.exe (PID 19124) | CPU:62.7% RAM:729MB Score:-0.0152
+11:49:29 | chrome.exe (PID 14712) | CPU:0.2% RAM:677MB Score:-0.038
+11:49:29 | Code.exe (PID 19412) | CPU:0.0% RAM:363MB Score:-0.0174
+11:49:29 | chrome.exe (PID 22588) | CPU:5.6% RAM:352MB Score:-0.0472
+11:49:29 | System (PID 4) | CPU:10.8% RAM:4MB Score:-0.1306
+11:49:29 | System Idle Process (PID 0) | CPU:1554.0% RAM:0MB Score:-0.1677
+11:49:39 | chrome.exe (PID 19124) | CPU:106.4% RAM:1119MB Score:-0.0608
+11:49:39 | Code.exe (PID 6140) | CPU:0.1% RAM:730MB Score:-0.0221
+11:49:39 | chrome.exe (PID 14712) | CPU:7.2% RAM:657MB Score:-0.0136
+11:49:39 | chrome.exe (PID 22588) | CPU:6.1% RAM:374MB Score:-0.0225
+11:49:39 | Code.exe (PID 19412) | CPU:21.5% RAM:372MB Score:-0.0344
+11:49:39 | System (PID 4) | CPU:6.9% RAM:4MB Score:-0.1164
+11:49:39 | System Idle Process (PID 0) | CPU:1752.2% RAM:0MB Score:-0.1551
+11:49:46 | Code.exe (PID 6140) | CPU:0.0% RAM:730MB Score:-0.0434
+11:49:46 | chrome.exe (PID 14712) | CPU:0.0% RAM:652MB Score:-0.024
+11:49:46 | chrome.exe (PID 19124) | CPU:67.5% RAM:613MB Score:-0.0134
+11:49:46 | Code.exe (PID 19412) | CPU:0.0% RAM:367MB Score:-0.0114
+11:49:46 | chrome.exe (PID 22588) | CPU:3.4% RAM:334MB Score:-0.0441
+11:49:46 | System (PID 4) | CPU:13.8% RAM:4MB Score:-0.1355
+11:49:46 | System Idle Process (PID 0) | CPU:1866.5% RAM:0MB Score:-0.1647
+11:49:46 | Code.exe (PID 6140) | CPU:0.9% RAM:730MB Score:-0.0585
+11:49:46 | chrome.exe (PID 14712) | CPU:2.6% RAM:652MB Score:-0.0456
+11:49:46 | chrome.exe (PID 22588) | CPU:27.9% RAM:400MB Score:-0.0549
+11:49:46 | Code.exe (PID 19412) | CPU:10.7% RAM:368MB Score:-0.0261
+11:49:46 | chrome.exe (PID 21284) | CPU:43.2% RAM:325MB Score:-0.0358
+11:49:46 | System (PID 4) | CPU:9.8% RAM:4MB Score:-0.1407
+11:49:46 | System Idle Process (PID 0) | CPU:1806.9% RAM:0MB Score:-0.175
+11:49:46 | Code.exe (PID 6140) | CPU:0.0% RAM:730MB Score:-0.0531
+11:49:46 | chrome.exe (PID 14712) | CPU:0.5% RAM:652MB Score:-0.0316
+11:49:46 | chrome.exe (PID 19124) | CPU:47.0% RAM:613MB Score:-0.0001
+11:49:46 | Code.exe (PID 19412) | CPU:13.4% RAM:377MB Score:-0.0399
+11:49:46 | chrome.exe (PID 22588) | CPU:0.0% RAM:367MB Score:-0.0249
+11:49:46 | System (PID 4) | CPU:9.0% RAM:4MB Score:-0.1272
+11:49:46 | System Idle Process (PID 0) | CPU:1778.1% RAM:0MB Score:-0.1612
+11:49:46 | Code.exe (PID 6140) | CPU:51.8% RAM:738MB Score:-0.075
+11:49:46 | chrome.exe (PID 14712) | CPU:0.0% RAM:652MB Score:-0.0151
+11:49:46 | Code.exe (PID 19412) | CPU:0.0% RAM:369MB Score:-0.0085
+11:49:46 | chrome.exe (PID 22588) | CPU:6.8% RAM:335MB Score:-0.0283
+11:49:46 | chrome.exe (PID 21284) | CPU:5.7% RAM:323MB Score:-0.0006
+11:49:46 | System (PID 4) | CPU:7.4% RAM:4MB Score:-0.1288
+11:49:46 | System Idle Process (PID 0) | CPU:1805.5% RAM:0MB Score:-0.1609
+11:49:47 | chrome.exe (PID 19124) | CPU:88.3% RAM:734MB Score:-0.0127
+11:49:47 | Code.exe (PID 6140) | CPU:0.0% RAM:727MB Score:-0.0244
+11:49:47 | chrome.exe (PID 14712) | CPU:0.0% RAM:652MB Score:-0.004
+11:49:47 | chrome.exe (PID 22588) | CPU:20.3% RAM:370MB Score:-0.0105
+11:49:47 | chrome.exe (PID 21284) | CPU:29.3% RAM:323MB Score:-0.0203
+11:49:47 | System (PID 4) | CPU:5.8% RAM:4MB Score:-0.1
+11:49:47 | System Idle Process (PID 0) | CPU:1393.6% RAM:0MB Score:-0.1454
+11:49:47 | chrome.exe (PID 19124) | CPU:96.9% RAM:970MB Score:-0.045
+11:49:47 | Code.exe (PID 6140) | CPU:1.6% RAM:727MB Score:-0.0288
+11:49:47 | chrome.exe (PID 14712) | CPU:0.0% RAM:652MB Score:-0.0113
+11:49:47 | Code.exe (PID 19412) | CPU:0.0% RAM:369MB Score:-0.0052
+11:49:47 | chrome.exe (PID 22588) | CPU:5.2% RAM:337MB Score:-0.0057
+11:49:47 | System (PID 4) | CPU:12.0% RAM:4MB Score:-0.1261
+11:49:47 | System Idle Process (PID 0) | CPU:1708.3% RAM:0MB Score:-0.1505
+11:49:47 | chrome.exe (PID 19124) | CPU:144.2% RAM:1136MB Score:-0.065
+11:49:47 | Code.exe (PID 6140) | CPU:2.8% RAM:727MB Score:-0.0364
+11:49:47 | chrome.exe (PID 14712) | CPU:0.5% RAM:652MB Score:-0.0228
+11:49:47 | Code.exe (PID 19412) | CPU:0.0% RAM:369MB Score:-0.0065
+11:49:47 | chrome.exe (PID 22588) | CPU:5.5% RAM:336MB Score:-0.0158
+11:49:47 | System (PID 4) | CPU:0.0% RAM:4MB Score:-0.1232
+11:49:47 | System Idle Process (PID 0) | CPU:2307.8% RAM:0MB Score:-0.1583
+11:49:47 | chrome.exe (PID 19124) | CPU:113.9% RAM:1136MB Score:-0.0635
+11:49:47 | Code.exe (PID 6140) | CPU:3.2% RAM:727MB Score:-0.0273
+11:49:47 | chrome.exe (PID 14712) | CPU:0.0% RAM:652MB Score:-0.0062
+11:49:47 | chrome.exe (PID 22588) | CPU:6.9% RAM:364MB Score:-0.0247
+11:49:47 | chrome.exe (PID 21284) | CPU:6.5% RAM:323MB Score:-0.0151
+11:49:47 | System (PID 4) | CPU:2.8% RAM:4MB Score:-0.1158
+11:49:47 | System Idle Process (PID 0) | CPU:1577.7% RAM:0MB Score:-0.1511
+11:49:47 | chrome.exe (PID 19124) | CPU:166.2% RAM:1136MB Score:-0.0696
+11:49:47 | Code.exe (PID 6140) | CPU:1.3% RAM:727MB Score:-0.0229
+11:49:47 | chrome.exe (PID 14712) | CPU:0.6% RAM:652MB Score:-0.0209
+11:49:47 | chrome.exe (PID 22588) | CPU:60.0% RAM:367MB Score:-0.0497
+11:49:47 | chrome.exe (PID 21284) | CPU:7.0% RAM:323MB Score:-0.0003
+11:49:47 | System (PID 4) | CPU:6.8% RAM:4MB Score:-0.1242
+11:49:47 | System Idle Process (PID 0) | CPU:1793.4% RAM:0MB Score:-0.1529
+11:49:47 | chrome.exe (PID 19124) | CPU:22.1% RAM:1160MB Score:-0.0156
+11:49:47 | Code.exe (PID 6140) | CPU:0.6% RAM:727MB Score:-0.0291
+11:49:47 | chrome.exe (PID 14712) | CPU:0.1% RAM:652MB Score:-0.0105
+11:49:47 | chrome.exe (PID 22588) | CPU:15.6% RAM:356MB Score:-0.0384
+11:49:47 | chrome.exe (PID 21284) | CPU:5.5% RAM:323MB Score:-0.0
+11:49:47 | System (PID 4) | CPU:7.5% RAM:4MB Score:-0.1175
+11:49:47 | System Idle Process (PID 0) | CPU:1667.3% RAM:0MB Score:-0.1571
+11:49:47 | chrome.exe (PID 19124) | CPU:43.5% RAM:1168MB Score:-0.0389
+11:49:47 | Code.exe (PID 6140) | CPU:0.4% RAM:726MB Score:-0.0403
+11:49:47 | chrome.exe (PID 14712) | CPU:2.3% RAM:653MB Score:-0.0132
+11:49:47 | Code.exe (PID 19412) | CPU:12.1% RAM:370MB Score:-0.0358
+11:49:47 | chrome.exe (PID 22588) | CPU:4.3% RAM:352MB Score:-0.0223
+11:49:47 | System (PID 4) | CPU:10.8% RAM:4MB Score:-0.1274
+11:49:47 | System Idle Process (PID 0) | CPU:1729.9% RAM:0MB Score:-0.1593
+11:49:47 | chrome.exe (PID 19124) | CPU:77.6% RAM:1163MB Score:-0.0556
+11:49:47 | Code.exe (PID 6140) | CPU:0.0% RAM:726MB Score:-0.0365
+11:49:47 | chrome.exe (PID 14712) | CPU:0.0% RAM:653MB Score:-0.0071
+11:49:47 | Code.exe (PID 19412) | CPU:12.5% RAM:370MB Score:-0.0329
+11:49:47 | Code.exe (PID 17496) | CPU:39.6% RAM:179MB Score:-0.002
+11:49:47 | System (PID 4) | CPU:8.3% RAM:4MB Score:-0.1156
+11:49:47 | System Idle Process (PID 0) | CPU:1616.3% RAM:0MB Score:-0.1508
+11:54:05 | Code.exe (PID 6140) | CPU:0.5% RAM:742MB Score:-0.0556
+11:54:05 | chrome.exe (PID 14712) | CPU:11.4% RAM:655MB Score:-0.0322
+11:54:05 | chrome.exe (PID 19124) | CPU:56.8% RAM:639MB Score:-0.002
+11:54:05 | chrome.exe (PID 22588) | CPU:9.7% RAM:452MB Score:-0.0438
+11:54:05 | Code.exe (PID 19412) | CPU:4.3% RAM:373MB Score:-0.0338
+11:54:05 | System (PID 4) | CPU:10.8% RAM:4MB Score:-0.1238
+11:54:05 | System Idle Process (PID 0) | CPU:1768.0% RAM:0MB Score:-0.167
+11:54:29 | Code.exe (PID 6140) | CPU:0.5% RAM:743MB Score:-0.063
+11:54:29 | chrome.exe (PID 14712) | CPU:26.3% RAM:659MB Score:-0.0525
+11:54:29 | Code.exe (PID 19412) | CPU:4.3% RAM:375MB Score:-0.0438
+11:54:29 | chrome.exe (PID 22588) | CPU:10.2% RAM:366MB Score:-0.0404
+11:54:29 | chrome.exe (PID 21284) | CPU:7.5% RAM:328MB Score:-0.0078
+11:54:29 | System (PID 4) | CPU:11.1% RAM:4MB Score:-0.1255
+11:54:29 | System Idle Process (PID 0) | CPU:1750.9% RAM:0MB Score:-0.1626
+11:54:32 | chrome.exe (PID 14712) | CPU:30.7% RAM:753MB Score:-0.0662
+11:54:32 | Code.exe (PID 6140) | CPU:2.9% RAM:750MB Score:-0.0763
+11:54:32 | Code.exe (PID 19412) | CPU:4.9% RAM:367MB Score:-0.0457
+11:54:32 | chrome.exe (PID 21284) | CPU:10.7% RAM:326MB Score:-0.0061
+11:54:32 | chrome.exe (PID 22588) | CPU:18.3% RAM:309MB Score:-0.0554
+11:54:32 | System (PID 4) | CPU:10.2% RAM:4MB Score:-0.1408
+11:54:32 | System Idle Process (PID 0) | CPU:1729.7% RAM:0MB Score:-0.179
+11:54:32 | Code.exe (PID 6140) | CPU:0.5% RAM:743MB Score:-0.0675
+11:54:32 | chrome.exe (PID 14712) | CPU:23.9% RAM:660MB Score:-0.0545
+11:54:32 | chrome.exe (PID 22588) | CPU:12.7% RAM:450MB Score:-0.0543
+11:54:32 | Code.exe (PID 19412) | CPU:6.4% RAM:367MB Score:-0.0491
+11:54:32 | chrome.exe (PID 21284) | CPU:8.8% RAM:326MB Score:-0.0033
+11:54:32 | System (PID 4) | CPU:10.6% RAM:4MB Score:-0.1371
+11:54:32 | System Idle Process (PID 0) | CPU:1740.0% RAM:0MB Score:-0.1704
+11:54:39 | chrome.exe (PID 14712) | CPU:54.7% RAM:777MB Score:-0.1176
+11:54:39 | Code.exe (PID 6140) | CPU:2.8% RAM:747MB Score:-0.094
+11:54:39 | Code.exe (PID 19412) | CPU:0.0% RAM:364MB Score:-0.0707
+11:54:39 | chrome.exe (PID 21284) | CPU:6.6% RAM:326MB Score:-0.0487
+11:54:39 | chrome.exe (PID 22588) | CPU:15.8% RAM:299MB Score:-0.0889
+11:54:39 | System (PID 4) | CPU:9.3% RAM:4MB Score:-0.1545
+11:54:39 | System Idle Process (PID 0) | CPU:1713.1% RAM:0MB Score:-0.2021
+11:54:40 | chrome.exe (PID 14712) | CPU:37.7% RAM:751MB Score:-0.1008
+11:54:40 | Code.exe (PID 6140) | CPU:2.3% RAM:749MB Score:-0.0963
+11:54:40 | chrome.exe (PID 22588) | CPU:16.4% RAM:368MB Score:-0.0845
+11:54:40 | Code.exe (PID 19412) | CPU:4.7% RAM:366MB Score:-0.0634
+11:54:40 | chrome.exe (PID 21284) | CPU:9.9% RAM:325MB Score:-0.0276
+11:54:40 | System (PID 4) | CPU:9.4% RAM:4MB Score:-0.1536
+11:54:40 | System Idle Process (PID 0) | CPU:1730.8% RAM:0MB Score:-0.1949
+11:54:40 | chrome.exe (PID 14712) | CPU:64.0% RAM:779MB Score:-0.1156
+11:54:40 | Code.exe (PID 6140) | CPU:2.4% RAM:747MB Score:-0.0939
+11:54:40 | Code.exe (PID 19412) | CPU:0.0% RAM:364MB Score:-0.0647
+11:54:40 | chrome.exe (PID 21284) | CPU:4.8% RAM:324MB Score:-0.0389
+11:54:40 | chrome.exe (PID 22588) | CPU:13.1% RAM:299MB Score:-0.0853
+11:54:40 | System (PID 4) | CPU:9.2% RAM:4MB Score:-0.1588
+11:54:40 | System Idle Process (PID 0) | CPU:1734.6% RAM:0MB Score:-0.1978
+11:54:42 | chrome.exe (PID 14712) | CPU:69.7% RAM:817MB Score:-0.117
+11:54:42 | Code.exe (PID 6140) | CPU:2.4% RAM:747MB Score:-0.0802
+11:54:42 | Code.exe (PID 19412) | CPU:0.1% RAM:361MB Score:-0.0604
+11:54:42 | chrome.exe (PID 22588) | CPU:5.3% RAM:330MB Score:-0.0756
+11:54:42 | chrome.exe (PID 21284) | CPU:3.8% RAM:325MB Score:-0.0384
+11:54:42 | System (PID 4) | CPU:9.0% RAM:4MB Score:-0.1536
+11:54:42 | System Idle Process (PID 0) | CPU:1730.9% RAM:0MB Score:-0.1908
+11:54:42 | chrome.exe (PID 14712) | CPU:70.4% RAM:826MB Score:-0.1169
+11:54:42 | Code.exe (PID 6140) | CPU:2.5% RAM:747MB Score:-0.0793
+11:54:42 | Code.exe (PID 19412) | CPU:0.1% RAM:361MB Score:-0.0556
+11:54:42 | chrome.exe (PID 22588) | CPU:4.5% RAM:346MB Score:-0.0722
+11:54:42 | chrome.exe (PID 21284) | CPU:3.6% RAM:325MB Score:-0.039
+11:54:42 | System (PID 4) | CPU:9.0% RAM:4MB Score:-0.1528
+11:54:42 | System Idle Process (PID 0) | CPU:1729.2% RAM:0MB Score:-0.1913
+11:54:42 | chrome.exe (PID 14712) | CPU:64.4% RAM:799MB Score:-0.117
+11:54:42 | Code.exe (PID 6140) | CPU:1.9% RAM:747MB Score:-0.088
+11:54:42 | Code.exe (PID 19412) | CPU:0.0% RAM:361MB Score:-0.0711
+11:54:42 | chrome.exe (PID 22588) | CPU:12.8% RAM:357MB Score:-0.0974
+11:54:42 | chrome.exe (PID 21284) | CPU:5.9% RAM:325MB Score:-0.0446
+11:54:42 | System (PID 4) | CPU:9.1% RAM:4MB Score:-0.1552
+11:54:42 | System Idle Process (PID 0) | CPU:1734.5% RAM:0MB Score:-0.201
+23:05:06 | Code.exe (PID 14436) | CPU:0.0% RAM:1062MB Score:-0.0961
+23:05:06 | chrome.exe (PID 27568) | CPU:0.0% RAM:481MB Score:-0.0069
+23:05:06 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.2626
+23:05:06 | chrome.exe (PID 3564) | CPU:0.0% RAM:349MB Score:-0.109
+23:05:06 | explorer.exe (PID 10128) | CPU:0.0% RAM:313MB Score:-0.0002
+23:05:06 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0798
+23:05:06 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.255
+23:05:06 | System Idle Process (PID 0) | CPU:0.0% RAM:0MB Score:-0.1538
+23:05:06 | Code.exe (PID 14436) | CPU:0.0% RAM:1062MB Score:-0.0967
+23:05:06 | chrome.exe (PID 27568) | CPU:0.0% RAM:481MB Score:-0.0179
+23:05:06 | chrome.exe (PID 5976) | CPU:0.0% RAM:388MB Score:-0.264
+23:05:06 | chrome.exe (PID 3564) | CPU:0.0% RAM:340MB Score:-0.1117
+23:05:06 | explorer.exe (PID 10128) | CPU:0.0% RAM:313MB Score:-0.0003
+23:05:06 | Code.exe (PID 14452) | CPU:0.0% RAM:236MB Score:-0.0871
+23:05:06 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2584
+23:05:06 | System Idle Process (PID 0) | CPU:0.0% RAM:0MB Score:-0.1567
+23:05:06 | Code.exe (PID 14436) | CPU:0.0% RAM:1062MB Score:-0.0919
+23:05:06 | chrome.exe (PID 27568) | CPU:0.0% RAM:481MB Score:-0.0066
+23:05:06 | chrome.exe (PID 5976) | CPU:0.0% RAM:389MB Score:-0.2599
+23:05:06 | chrome.exe (PID 3564) | CPU:0.0% RAM:338MB Score:-0.1046
+23:05:06 | explorer.exe (PID 10128) | CPU:0.0% RAM:313MB Score:-0.0003
+23:05:06 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.08
+23:05:06 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2538
+23:05:06 | System Idle Process (PID 0) | CPU:0.0% RAM:0MB Score:-0.153
+23:05:06 | Code.exe (PID 14436) | CPU:0.0% RAM:1062MB Score:-0.0961
+23:05:06 | chrome.exe (PID 27568) | CPU:0.0% RAM:481MB Score:-0.0065
+23:05:06 | chrome.exe (PID 5976) | CPU:0.0% RAM:388MB Score:-0.2626
+23:05:06 | chrome.exe (PID 3564) | CPU:0.0% RAM:346MB Score:-0.1085
+23:05:06 | explorer.exe (PID 10128) | CPU:0.0% RAM:313MB Score:-0.0002
+23:05:06 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0798
+23:05:06 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.255
+23:05:06 | System Idle Process (PID 0) | CPU:0.0% RAM:0MB Score:-0.1538
+23:05:06 | Code.exe (PID 14436) | CPU:0.0% RAM:1062MB Score:-0.0984
+23:05:06 | chrome.exe (PID 27568) | CPU:0.0% RAM:481MB Score:-0.0065
+23:05:06 | chrome.exe (PID 5976) | CPU:0.0% RAM:388MB Score:-0.2644
+23:05:06 | chrome.exe (PID 3564) | CPU:0.0% RAM:347MB Score:-0.1144
+23:05:06 | explorer.exe (PID 10128) | CPU:0.0% RAM:313MB Score:-0.0002
+23:05:06 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0809
+23:05:06 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2575
+23:05:06 | System Idle Process (PID 0) | CPU:0.0% RAM:0MB Score:-0.1534
+23:05:06 | Code.exe (PID 14436) | CPU:0.0% RAM:1062MB Score:-0.0944
+23:05:06 | chrome.exe (PID 27568) | CPU:0.0% RAM:481MB Score:-0.0067
+23:05:06 | chrome.exe (PID 5976) | CPU:0.0% RAM:389MB Score:-0.2622
+23:05:06 | chrome.exe (PID 3564) | CPU:0.0% RAM:338MB Score:-0.1069
+23:05:06 | explorer.exe (PID 10128) | CPU:0.0% RAM:313MB Score:-0.0
+23:05:06 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0848
+23:05:06 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2567
+23:05:06 | System Idle Process (PID 0) | CPU:0.0% RAM:0MB Score:-0.1604
+23:05:25 | Code.exe (PID 14436) | CPU:0.0% RAM:783MB Score:-0.0373
+23:05:25 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.2441
+23:05:25 | explorer.exe (PID 10128) | CPU:0.0% RAM:314MB Score:-0.0016
+23:05:25 | chrome.exe (PID 3564) | CPU:0.0% RAM:310MB Score:-0.0877
+23:05:25 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0549
+23:05:25 | python.exe (PID 20436) | CPU:91.9% RAM:215MB Score:-0.0409
+23:05:25 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2488
+23:05:25 | System Idle Process (PID 0) | CPU:3854.2% RAM:0MB Score:-0.2574
+23:05:25 | Code.exe (PID 14436) | CPU:4.3% RAM:783MB Score:-0.0684
+23:05:25 | Code.exe (PID 4124) | CPU:3.9% RAM:736MB Score:-0.0005
+23:05:25 | chrome.exe (PID 5976) | CPU:1.2% RAM:387MB Score:-0.2439
+23:05:25 | chrome.exe (PID 3564) | CPU:0.5% RAM:312MB Score:-0.0809
+23:05:25 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0476
+23:05:25 | python.exe (PID 20436) | CPU:96.6% RAM:215MB Score:-0.0463
+23:05:25 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.245
+23:05:25 | System Idle Process (PID 0) | CPU:1579.1% RAM:0MB Score:-0.2492
+23:05:25 | Code.exe (PID 14436) | CPU:0.0% RAM:779MB Score:-0.041
+23:05:25 | chrome.exe (PID 5976) | CPU:4.7% RAM:388MB Score:-0.2426
+23:05:25 | explorer.exe (PID 10128) | CPU:0.0% RAM:314MB Score:-0.0001
+23:05:25 | chrome.exe (PID 3564) | CPU:0.0% RAM:310MB Score:-0.0889
+23:05:25 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0581
+23:05:25 | python.exe (PID 20436) | CPU:97.7% RAM:215MB Score:-0.0284
+23:05:25 | System (PID 4) | CPU:3.6% RAM:5MB Score:-0.2499
+23:05:25 | System Idle Process (PID 0) | CPU:1858.4% RAM:0MB Score:-0.2492
+23:05:25 | Code.exe (PID 14436) | CPU:14.3% RAM:780MB Score:-0.0686
+23:05:25 | chrome.exe (PID 5976) | CPU:6.5% RAM:387MB Score:-0.238
+23:05:25 | explorer.exe (PID 10128) | CPU:0.0% RAM:314MB Score:-0.0014
+23:05:25 | chrome.exe (PID 3564) | CPU:0.0% RAM:310MB Score:-0.0871
+23:05:25 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0611
+23:05:25 | python.exe (PID 20436) | CPU:99.7% RAM:215MB Score:-0.0332
+23:05:25 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2515
+23:05:25 | System Idle Process (PID 0) | CPU:1835.3% RAM:0MB Score:-0.2507
+23:05:25 | Code.exe (PID 14436) | CPU:0.0% RAM:783MB Score:-0.0399
+23:05:25 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.2487
+23:05:25 | explorer.exe (PID 10128) | CPU:0.0% RAM:314MB Score:-0.0008
+23:05:25 | chrome.exe (PID 3564) | CPU:0.0% RAM:310MB Score:-0.1019
+23:05:25 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0541
+23:05:25 | python.exe (PID 20436) | CPU:99.3% RAM:215MB Score:-0.0383
+23:05:25 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2491
+23:05:25 | System Idle Process (PID 0) | CPU:1829.4% RAM:0MB Score:-0.2558
+23:05:26 | Code.exe (PID 14436) | CPU:0.0% RAM:779MB Score:-0.0365
+23:05:26 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.2439
+23:05:26 | explorer.exe (PID 10128) | CPU:0.0% RAM:314MB Score:-0.0011
+23:05:26 | chrome.exe (PID 3564) | CPU:0.0% RAM:310MB Score:-0.0841
+23:05:26 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.062
+23:05:26 | python.exe (PID 20436) | CPU:100.3% RAM:215MB Score:-0.0327
+23:05:26 | System (PID 4) | CPU:10.0% RAM:5MB Score:-0.2518
+23:05:26 | System Idle Process (PID 0) | CPU:1884.9% RAM:0MB Score:-0.2487
+23:05:42 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.0581
+23:05:42 | chrome.exe (PID 27568) | CPU:0.0% RAM:483MB Score:-0.0005
+23:05:42 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.2481
+23:05:42 | chrome.exe (PID 3564) | CPU:0.0% RAM:309MB Score:-0.0888
+23:05:42 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.053
+23:05:42 | python.exe (PID 20436) | CPU:101.4% RAM:220MB Score:-0.0412
+23:05:42 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2516
+23:05:42 | System Idle Process (PID 0) | CPU:1981.7% RAM:0MB Score:-0.2557
+23:05:42 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.0621
+23:05:42 | chrome.exe (PID 27568) | CPU:0.0% RAM:483MB Score:-0.0003
+23:05:42 | chrome.exe (PID 5976) | CPU:0.6% RAM:387MB Score:-0.2517
+23:05:42 | chrome.exe (PID 3564) | CPU:0.0% RAM:309MB Score:-0.0974
+23:05:42 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0599
+23:05:42 | python.exe (PID 20436) | CPU:98.4% RAM:220MB Score:-0.0532
+23:05:42 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2578
+23:05:42 | System Idle Process (PID 0) | CPU:2006.2% RAM:0MB Score:-0.2643
+23:05:42 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.053
+23:05:42 | chrome.exe (PID 5976) | CPU:0.3% RAM:387MB Score:-0.2539
+23:05:42 | explorer.exe (PID 10128) | CPU:0.4% RAM:314MB Score:-0.0003
+23:05:42 | chrome.exe (PID 3564) | CPU:0.0% RAM:309MB Score:-0.0986
+23:05:42 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0601
+23:05:42 | python.exe (PID 20436) | CPU:99.6% RAM:220MB Score:-0.0519
+23:05:42 | System (PID 4) | CPU:1.7% RAM:5MB Score:-0.2606
+23:05:42 | System Idle Process (PID 0) | CPU:1868.3% RAM:0MB Score:-0.2673
+23:05:42 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.0588
+23:05:42 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.2569
+23:05:42 | explorer.exe (PID 10128) | CPU:0.0% RAM:314MB Score:-0.0001
+23:05:42 | chrome.exe (PID 3564) | CPU:0.0% RAM:309MB Score:-0.099
+23:05:42 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.066
+23:05:42 | python.exe (PID 20436) | CPU:96.3% RAM:220MB Score:-0.047
+23:05:42 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2636
+23:05:42 | System Idle Process (PID 0) | CPU:1889.5% RAM:0MB Score:-0.267
+23:05:42 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.0602
+23:05:42 | chrome.exe (PID 27568) | CPU:0.0% RAM:483MB Score:-0.0
+23:05:42 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.264
+23:05:42 | chrome.exe (PID 3564) | CPU:0.0% RAM:309MB Score:-0.1058
+23:05:42 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0725
+23:05:42 | python.exe (PID 20436) | CPU:98.2% RAM:220MB Score:-0.0562
+23:05:42 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2638
+23:05:42 | System Idle Process (PID 0) | CPU:1896.1% RAM:0MB Score:-0.2686
+23:05:43 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.0578
+23:05:43 | chrome.exe (PID 27568) | CPU:0.0% RAM:483MB Score:-0.0
+23:05:43 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.252
+23:05:43 | chrome.exe (PID 3564) | CPU:0.0% RAM:309MB Score:-0.0867
+23:05:43 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0685
+23:05:43 | python.exe (PID 20436) | CPU:95.8% RAM:220MB Score:-0.0379
+23:05:43 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2556
+23:05:43 | System Idle Process (PID 0) | CPU:1479.4% RAM:0MB Score:-0.259
+23:06:00 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.0567
+23:06:00 | chrome.exe (PID 27568) | CPU:0.0% RAM:483MB Score:-0.0004
+23:06:00 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.2593
+23:06:00 | chrome.exe (PID 3564) | CPU:0.0% RAM:308MB Score:-0.0929
+23:06:00 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0708
+23:06:00 | python.exe (PID 20436) | CPU:100.1% RAM:220MB Score:-0.0458
+23:06:00 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2574
+23:06:00 | System Idle Process (PID 0) | CPU:1963.3% RAM:0MB Score:-0.2621
+23:06:00 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.056
+23:06:00 | chrome.exe (PID 5976) | CPU:0.5% RAM:387MB Score:-0.2661
+23:06:00 | explorer.exe (PID 10128) | CPU:0.0% RAM:314MB Score:-0.0002
+23:06:00 | chrome.exe (PID 3564) | CPU:0.0% RAM:309MB Score:-0.1041
+23:06:00 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0545
+23:06:00 | python.exe (PID 20436) | CPU:98.1% RAM:220MB Score:-0.063
+23:06:00 | System (PID 4) | CPU:2.1% RAM:5MB Score:-0.2673
+23:06:00 | System Idle Process (PID 0) | CPU:1877.4% RAM:0MB Score:-0.2684
+23:06:00 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.0585
+23:06:00 | chrome.exe (PID 27568) | CPU:0.0% RAM:483MB Score:-0.0002
+23:06:00 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.2529
+23:06:00 | chrome.exe (PID 3564) | CPU:0.0% RAM:309MB Score:-0.091
+23:06:00 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0569
+23:06:00 | python.exe (PID 20436) | CPU:97.2% RAM:220MB Score:-0.0398
+23:06:00 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2582
+23:06:00 | System Idle Process (PID 0) | CPU:1922.8% RAM:0MB Score:-0.2557
+23:06:00 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.0638
+23:06:00 | chrome.exe (PID 27568) | CPU:0.0% RAM:483MB Score:-0.0001
+23:06:00 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.251
+23:06:00 | chrome.exe (PID 3564) | CPU:0.0% RAM:308MB Score:-0.0953
+23:06:00 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0633
+23:06:00 | python.exe (PID 20436) | CPU:99.7% RAM:220MB Score:-0.0445
+23:06:00 | System (PID 4) | CPU:14.3% RAM:5MB Score:-0.2638
+23:06:00 | System Idle Process (PID 0) | CPU:1900.0% RAM:0MB Score:-0.2636
+23:06:00 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.0346
+23:06:00 | ProtonVPN.Client.exe (PID 19928) | CPU:1.8% RAM:550MB Score:-0.0003
+23:06:00 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.2339
+23:06:00 | chrome.exe (PID 3564) | CPU:0.0% RAM:308MB Score:-0.087
+23:06:00 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0411
+23:06:00 | python.exe (PID 20436) | CPU:99.5% RAM:220MB Score:-0.0374
+23:06:00 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2436
+23:06:00 | System Idle Process (PID 0) | CPU:1748.9% RAM:0MB Score:-0.2477
+23:06:00 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.0635
+23:06:00 | chrome.exe (PID 27568) | CPU:0.0% RAM:483MB Score:-0.0004
+23:06:00 | chrome.exe (PID 5976) | CPU:0.0% RAM:387MB Score:-0.2578
+23:06:00 | chrome.exe (PID 3564) | CPU:0.0% RAM:308MB Score:-0.0952
+23:06:00 | Code.exe (PID 14452) | CPU:0.0% RAM:241MB Score:-0.0512
+23:06:00 | python.exe (PID 20436) | CPU:97.1% RAM:220MB Score:-0.0536
+23:06:00 | System (PID 4) | CPU:2.1% RAM:5MB Score:-0.2682
+23:06:00 | System Idle Process (PID 0) | CPU:1846.6% RAM:0MB Score:-0.2636
+23:06:51 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0361
+23:06:51 | chrome.exe (PID 5976) | CPU:5.2% RAM:387MB Score:-0.2447
+23:06:51 | chrome.exe (PID 3564) | CPU:7.4% RAM:339MB Score:-0.108
+23:06:51 | explorer.exe (PID 10128) | CPU:0.0% RAM:314MB Score:-0.0013
+23:06:51 | Code.exe (PID 14452) | CPU:0.0% RAM:236MB Score:-0.0427
+23:06:51 | python.exe (PID 20436) | CPU:91.5% RAM:220MB Score:-0.028
+23:06:51 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2484
+23:06:51 | System Idle Process (PID 0) | CPU:2020.1% RAM:0MB Score:-0.2502
+23:06:51 | Code.exe (PID 14436) | CPU:0.3% RAM:778MB Score:-0.0503
+23:06:51 | chrome.exe (PID 5976) | CPU:6.3% RAM:387MB Score:-0.2348
+23:06:51 | chrome.exe (PID 3564) | CPU:5.7% RAM:340MB Score:-0.1074
+23:06:51 | explorer.exe (PID 10128) | CPU:0.8% RAM:314MB Score:-0.0004
+23:06:51 | Code.exe (PID 14452) | CPU:2.3% RAM:236MB Score:-0.0561
+23:06:51 | python.exe (PID 20436) | CPU:93.2% RAM:220MB Score:-0.0267
+23:06:51 | System (PID 4) | CPU:1.0% RAM:5MB Score:-0.2457
+23:06:51 | System Idle Process (PID 0) | CPU:1866.1% RAM:0MB Score:-0.2525
+23:06:51 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0629
+23:06:51 | chrome.exe (PID 5976) | CPU:14.2% RAM:387MB Score:-0.2555
+23:06:51 | chrome.exe (PID 3564) | CPU:3.2% RAM:340MB Score:-0.108
+23:06:51 | explorer.exe (PID 10128) | CPU:0.0% RAM:314MB Score:-0.0001
+23:06:51 | Code.exe (PID 14452) | CPU:0.0% RAM:236MB Score:-0.056
+23:06:51 | python.exe (PID 20436) | CPU:92.0% RAM:220MB Score:-0.0373
+23:06:51 | System (PID 4) | CPU:7.7% RAM:5MB Score:-0.2647
+23:06:51 | System Idle Process (PID 0) | CPU:2059.7% RAM:0MB Score:-0.2706
+23:06:52 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0423
+23:06:52 | chrome.exe (PID 5976) | CPU:5.2% RAM:387MB Score:-0.2466
+23:06:52 | chrome.exe (PID 3564) | CPU:5.1% RAM:339MB Score:-0.1054
+23:06:52 | explorer.exe (PID 10128) | CPU:0.0% RAM:314MB Score:-0.0001
+23:06:52 | Code.exe (PID 14452) | CPU:0.0% RAM:236MB Score:-0.0521
+23:06:52 | python.exe (PID 20436) | CPU:91.7% RAM:220MB Score:-0.0371
+23:06:52 | System (PID 4) | CPU:6.9% RAM:5MB Score:-0.2521
+23:06:52 | System Idle Process (PID 0) | CPU:1779.9% RAM:0MB Score:-0.2562
+23:06:53 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0484
+23:06:53 | ProtonVPN.Client.exe (PID 19928) | CPU:1.6% RAM:550MB Score:-0.0001
+23:06:53 | chrome.exe (PID 5976) | CPU:9.4% RAM:387MB Score:-0.2538
+23:06:53 | chrome.exe (PID 3564) | CPU:7.6% RAM:333MB Score:-0.1122
+23:06:53 | Code.exe (PID 14452) | CPU:0.0% RAM:236MB Score:-0.058
+23:06:53 | python.exe (PID 20436) | CPU:81.8% RAM:220MB Score:-0.0312
+23:06:53 | System (PID 4) | CPU:2.2% RAM:5MB Score:-0.2599
+23:06:53 | System Idle Process (PID 0) | CPU:1824.3% RAM:0MB Score:-0.2615
+23:06:53 | Code.exe (PID 14436) | CPU:8.7% RAM:778MB Score:-0.0768
+23:06:53 | chrome.exe (PID 5976) | CPU:7.0% RAM:387MB Score:-0.2418
+23:06:53 | chrome.exe (PID 3564) | CPU:15.0% RAM:333MB Score:-0.1143
+23:06:53 | explorer.exe (PID 10128) | CPU:0.0% RAM:314MB Score:-0.0002
+23:06:53 | Code.exe (PID 14452) | CPU:0.0% RAM:236MB Score:-0.0564
+23:06:53 | python.exe (PID 20436) | CPU:88.5% RAM:220MB Score:-0.0276
+23:06:53 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2509
+23:06:53 | System Idle Process (PID 0) | CPU:1821.9% RAM:0MB Score:-0.2635
+23:08:35 | chrome.exe (PID 27568) | CPU:16.7% RAM:647MB Score:-0.0006
+23:08:35 | chrome.exe (PID 3564) | CPU:12.9% RAM:454MB Score:-0.0632
+23:08:35 | chrome.exe (PID 5976) | CPU:2.5% RAM:396MB Score:-0.2031
+23:08:35 | explorer.exe (PID 10128) | CPU:0.8% RAM:380MB Score:-0.0063
+23:08:35 | python.exe (PID 20436) | CPU:91.2% RAM:220MB Score:-0.0019
+23:08:35 | System (PID 4) | CPU:3.5% RAM:5MB Score:-0.2055
+23:08:35 | System Idle Process (PID 0) | CPU:1839.7% RAM:0MB Score:-0.2107
+23:08:35 | chrome.exe (PID 3564) | CPU:9.0% RAM:425MB Score:-0.0824
+23:08:35 | chrome.exe (PID 5976) | CPU:14.8% RAM:392MB Score:-0.2141
+23:08:35 | explorer.exe (PID 10128) | CPU:4.6% RAM:380MB Score:-0.0259
+23:08:35 | Code.exe (PID 14452) | CPU:0.0% RAM:236MB Score:-0.0085
+23:08:35 | python.exe (PID 20436) | CPU:93.9% RAM:220MB Score:-0.0002
+23:08:35 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2122
+23:08:35 | System Idle Process (PID 0) | CPU:1763.2% RAM:0MB Score:-0.2254
+23:08:36 | chrome.exe (PID 3564) | CPU:14.4% RAM:455MB Score:-0.0915
+23:08:36 | chrome.exe (PID 5976) | CPU:12.2% RAM:397MB Score:-0.2258
+23:08:36 | explorer.exe (PID 10128) | CPU:0.0% RAM:379MB Score:-0.0088
+23:08:36 | Code.exe (PID 14452) | CPU:0.0% RAM:236MB Score:-0.0273
+23:08:36 | python.exe (PID 20436) | CPU:87.2% RAM:220MB Score:-0.02
+23:08:36 | System (PID 4) | CPU:10.0% RAM:5MB Score:-0.2313
+23:08:36 | System Idle Process (PID 0) | CPU:1264.9% RAM:0MB Score:-0.2348
+23:08:37 | Code.exe (PID 14436) | CPU:0.2% RAM:777MB Score:-0.0004
+23:08:37 | chrome.exe (PID 3564) | CPU:10.7% RAM:437MB Score:-0.0761
+23:08:37 | chrome.exe (PID 5976) | CPU:0.0% RAM:390MB Score:-0.2225
+23:08:37 | explorer.exe (PID 10128) | CPU:0.0% RAM:375MB Score:-0.0116
+23:08:37 | python.exe (PID 20436) | CPU:95.2% RAM:221MB Score:-0.0287
+23:08:37 | Code.exe (PID 14452) | CPU:0.0% RAM:124MB Score:-0.0228
+23:08:37 | System (PID 4) | CPU:10.0% RAM:5MB Score:-0.2262
+23:08:37 | System Idle Process (PID 0) | CPU:1692.2% RAM:0MB Score:-0.2291
+23:08:37 | chrome.exe (PID 3564) | CPU:0.0% RAM:422MB Score:-0.0607
+23:08:37 | chrome.exe (PID 5976) | CPU:0.0% RAM:396MB Score:-0.2297
+23:08:37 | explorer.exe (PID 10128) | CPU:0.0% RAM:375MB Score:-0.0097
+23:08:37 | python.exe (PID 20436) | CPU:95.7% RAM:221MB Score:-0.0091
+23:08:37 | Code.exe (PID 14452) | CPU:0.0% RAM:124MB Score:-0.0121
+23:08:37 | System (PID 4) | CPU:13.6% RAM:5MB Score:-0.2278
+23:08:37 | System Idle Process (PID 0) | CPU:1687.4% RAM:0MB Score:-0.2301
+23:08:38 | chrome.exe (PID 3564) | CPU:1.4% RAM:410MB Score:-0.0545
+23:08:38 | chrome.exe (PID 5976) | CPU:0.0% RAM:396MB Score:-0.2143
+23:08:38 | explorer.exe (PID 10128) | CPU:0.0% RAM:375MB Score:-0.0104
+23:08:38 | python.exe (PID 20436) | CPU:88.6% RAM:221MB Score:-0.0099
+23:08:38 | Code.exe (PID 14452) | CPU:0.0% RAM:124MB Score:-0.0147
+23:08:38 | System (PID 4) | CPU:5.3% RAM:5MB Score:-0.2222
+23:08:38 | System Idle Process (PID 0) | CPU:2168.6% RAM:0MB Score:-0.2213
+23:08:38 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.0007
+23:08:38 | chrome.exe (PID 3564) | CPU:0.0% RAM:410MB Score:-0.0527
+23:08:38 | chrome.exe (PID 5976) | CPU:0.0% RAM:389MB Score:-0.2185
+23:08:38 | explorer.exe (PID 10128) | CPU:0.0% RAM:375MB Score:-0.0056
+23:08:38 | python.exe (PID 20436) | CPU:94.4% RAM:221MB Score:-0.022
+23:08:38 | Code.exe (PID 14452) | CPU:0.0% RAM:125MB Score:-0.0207
+23:08:38 | System (PID 4) | CPU:4.8% RAM:5MB Score:-0.2246
+23:08:38 | System Idle Process (PID 0) | CPU:1851.0% RAM:0MB Score:-0.2339
+23:08:38 | chrome.exe (PID 3564) | CPU:7.3% RAM:430MB Score:-0.0905
+23:08:38 | chrome.exe (PID 5976) | CPU:5.7% RAM:396MB Score:-0.2322
+23:08:38 | explorer.exe (PID 10128) | CPU:0.0% RAM:375MB Score:-0.0221
+23:08:38 | python.exe (PID 20436) | CPU:91.7% RAM:221MB Score:-0.0313
+23:08:38 | Code.exe (PID 14452) | CPU:0.0% RAM:124MB Score:-0.0406
+23:08:38 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.234
+23:08:38 | System Idle Process (PID 0) | CPU:1694.0% RAM:0MB Score:-0.2404
+23:08:38 | chrome.exe (PID 3564) | CPU:0.0% RAM:409MB Score:-0.053
+23:08:38 | chrome.exe (PID 5976) | CPU:1.1% RAM:390MB Score:-0.2197
+23:08:38 | explorer.exe (PID 10128) | CPU:0.0% RAM:375MB Score:-0.0146
+23:08:38 | python.exe (PID 20436) | CPU:100.1% RAM:221MB Score:-0.0332
+23:08:38 | Code.exe (PID 14452) | CPU:0.0% RAM:124MB Score:-0.0061
+23:08:38 | System (PID 4) | CPU:6.1% RAM:5MB Score:-0.2252
+23:08:38 | System Idle Process (PID 0) | CPU:1780.3% RAM:0MB Score:-0.2307
+23:08:38 | Code.exe (PID 14436) | CPU:0.0% RAM:777MB Score:-0.0012
+23:08:38 | chrome.exe (PID 3564) | CPU:2.1% RAM:394MB Score:-0.0641
+23:08:38 | chrome.exe (PID 5976) | CPU:0.0% RAM:390MB Score:-0.2142
+23:08:38 | explorer.exe (PID 10128) | CPU:0.0% RAM:375MB Score:-0.0006
+23:08:38 | python.exe (PID 20436) | CPU:93.2% RAM:221MB Score:-0.0227
+23:08:38 | Code.exe (PID 14452) | CPU:0.0% RAM:124MB Score:-0.0083
+23:08:38 | System (PID 4) | CPU:13.1% RAM:5MB Score:-0.2221
+23:08:38 | System Idle Process (PID 0) | CPU:1724.1% RAM:0MB Score:-0.225
+23:08:39 | chrome.exe (PID 3564) | CPU:4.5% RAM:448MB Score:-0.0585
+23:08:39 | chrome.exe (PID 5976) | CPU:0.0% RAM:396MB Score:-0.2045
+23:08:39 | explorer.exe (PID 10128) | CPU:0.3% RAM:375MB Score:-0.0011
+23:08:39 | python.exe (PID 20436) | CPU:90.4% RAM:221MB Score:-0.011
+23:08:39 | Code.exe (PID 14452) | CPU:2.3% RAM:124MB Score:-0.0284
+23:08:39 | System (PID 4) | CPU:6.5% RAM:5MB Score:-0.2136
+23:08:39 | System Idle Process (PID 0) | CPU:1818.3% RAM:0MB Score:-0.2109
+23:08:40 | Code.exe (PID 14436) | CPU:0.3% RAM:777MB Score:-0.0172
+23:08:40 | chrome.exe (PID 3564) | CPU:1.7% RAM:401MB Score:-0.0605
+23:08:40 | chrome.exe (PID 5976) | CPU:1.8% RAM:390MB Score:-0.2181
+23:08:40 | explorer.exe (PID 10128) | CPU:0.0% RAM:375MB Score:-0.0006
+23:08:40 | python.exe (PID 20436) | CPU:92.4% RAM:221MB Score:-0.0291
+23:08:40 | Code.exe (PID 14452) | CPU:0.5% RAM:125MB Score:-0.0319
+23:08:40 | System (PID 4) | CPU:6.9% RAM:5MB Score:-0.2223
+23:08:40 | System Idle Process (PID 0) | CPU:1796.9% RAM:0MB Score:-0.228
+23:09:34 | Code.exe (PID 14436) | CPU:0.3% RAM:778MB Score:-0.007
+23:09:34 | chrome.exe (PID 3564) | CPU:5.4% RAM:422MB Score:-0.0769
+23:09:34 | chrome.exe (PID 5976) | CPU:8.4% RAM:389MB Score:-0.222
+23:09:34 | explorer.exe (PID 10128) | CPU:0.3% RAM:374MB Score:-0.015
+23:09:34 | python.exe (PID 20436) | CPU:92.5% RAM:223MB Score:-0.0048
+23:09:34 | Code.exe (PID 14452) | CPU:0.0% RAM:124MB Score:-0.0064
+23:09:34 | System (PID 4) | CPU:5.3% RAM:5MB Score:-0.2275
+23:09:34 | System Idle Process (PID 0) | CPU:1829.3% RAM:0MB Score:-0.2383
+23:09:34 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0044
+23:09:34 | chrome.exe (PID 3564) | CPU:0.0% RAM:441MB Score:-0.0517
+23:09:34 | chrome.exe (PID 5976) | CPU:4.7% RAM:389MB Score:-0.2345
+23:09:34 | explorer.exe (PID 10128) | CPU:0.0% RAM:374MB Score:-0.0117
+23:09:34 | python.exe (PID 20436) | CPU:94.8% RAM:223MB Score:-0.0163
+23:09:34 | Code.exe (PID 14452) | CPU:0.0% RAM:124MB Score:-0.0111
+23:09:34 | System (PID 4) | CPU:6.1% RAM:5MB Score:-0.2272
+23:09:34 | System Idle Process (PID 0) | CPU:1820.5% RAM:0MB Score:-0.2325
+23:09:34 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0028
+23:09:34 | chrome.exe (PID 3564) | CPU:8.6% RAM:441MB Score:-0.0894
+23:09:34 | chrome.exe (PID 5976) | CPU:3.3% RAM:389MB Score:-0.2314
+23:09:34 | explorer.exe (PID 10128) | CPU:0.0% RAM:374MB Score:-0.0148
+23:09:34 | python.exe (PID 20436) | CPU:94.6% RAM:223MB Score:-0.0163
+23:09:34 | Code.exe (PID 14452) | CPU:0.0% RAM:124MB Score:-0.0152
+23:09:34 | System (PID 4) | CPU:25.2% RAM:5MB Score:-0.2271
+23:09:34 | System Idle Process (PID 0) | CPU:1825.5% RAM:0MB Score:-0.2379
+23:09:35 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0045
+23:09:35 | chrome.exe (PID 3564) | CPU:4.4% RAM:441MB Score:-0.0747
+23:09:35 | chrome.exe (PID 5976) | CPU:2.6% RAM:389MB Score:-0.2272
+23:09:35 | explorer.exe (PID 10128) | CPU:0.0% RAM:374MB Score:-0.016
+23:09:35 | python.exe (PID 20436) | CPU:95.6% RAM:223MB Score:-0.0285
+23:09:35 | Code.exe (PID 14452) | CPU:0.0% RAM:124MB Score:-0.0198
+23:09:35 | System (PID 4) | CPU:5.3% RAM:5MB Score:-0.2314
+23:09:35 | System Idle Process (PID 0) | CPU:1808.0% RAM:0MB Score:-0.2435
+23:09:35 | Code.exe (PID 14436) | CPU:4.4% RAM:778MB Score:-0.0397
+23:09:35 | chrome.exe (PID 3564) | CPU:6.9% RAM:441MB Score:-0.09
+23:09:35 | chrome.exe (PID 5976) | CPU:0.0% RAM:389MB Score:-0.228
+23:09:35 | explorer.exe (PID 10128) | CPU:0.0% RAM:374MB Score:-0.002
+23:09:35 | python.exe (PID 20436) | CPU:90.1% RAM:223MB Score:-0.0243
+23:09:35 | Code.exe (PID 14452) | CPU:0.0% RAM:124MB Score:-0.0226
+23:09:35 | System (PID 4) | CPU:2.6% RAM:5MB Score:-0.2268
+23:09:35 | System Idle Process (PID 0) | CPU:2177.5% RAM:0MB Score:-0.2394
+23:09:35 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0064
+23:09:35 | chrome.exe (PID 3564) | CPU:5.7% RAM:435MB Score:-0.0782
+23:09:35 | chrome.exe (PID 5976) | CPU:1.7% RAM:389MB Score:-0.2194
+23:09:35 | explorer.exe (PID 10128) | CPU:1.3% RAM:374MB Score:-0.0162
+23:09:35 | python.exe (PID 20436) | CPU:95.0% RAM:223MB Score:-0.0059
+23:09:35 | Code.exe (PID 14452) | CPU:0.0% RAM:124MB Score:-0.0205
+23:09:35 | System (PID 4) | CPU:2.4% RAM:5MB Score:-0.2231
+23:09:35 | System Idle Process (PID 0) | CPU:1853.5% RAM:0MB Score:-0.2303
+23:10:27 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0208
+23:10:27 | chrome.exe (PID 3564) | CPU:0.9% RAM:394MB Score:-0.0547
+23:10:27 | chrome.exe (PID 5976) | CPU:6.1% RAM:391MB Score:-0.2276
+23:10:27 | explorer.exe (PID 10128) | CPU:0.0% RAM:373MB Score:-0.0067
+23:10:27 | python.exe (PID 20436) | CPU:94.3% RAM:223MB Score:-0.0424
+23:10:27 | Code.exe (PID 14452) | CPU:0.0% RAM:122MB Score:-0.0129
+23:10:27 | System (PID 4) | CPU:7.7% RAM:5MB Score:-0.2357
+23:10:27 | System Idle Process (PID 0) | CPU:1428.6% RAM:0MB Score:-0.2481
+23:10:28 | Code.exe (PID 14436) | CPU:0.2% RAM:778MB Score:-0.0062
+23:10:28 | chrome.exe (PID 27568) | CPU:11.8% RAM:550MB Score:-0.0055
+23:10:28 | chrome.exe (PID 3564) | CPU:4.6% RAM:395MB Score:-0.0671
+23:10:28 | chrome.exe (PID 5976) | CPU:5.0% RAM:391MB Score:-0.2166
+23:10:28 | python.exe (PID 20436) | CPU:94.1% RAM:223MB Score:-0.0146
+23:10:28 | Code.exe (PID 14452) | CPU:0.2% RAM:122MB Score:-0.0014
+23:10:28 | System (PID 4) | CPU:4.3% RAM:5MB Score:-0.2199
+23:10:28 | System Idle Process (PID 0) | CPU:1845.9% RAM:0MB Score:-0.2321
+23:10:28 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0223
+23:10:28 | chrome.exe (PID 3564) | CPU:20.0% RAM:402MB Score:-0.1074
+23:10:28 | chrome.exe (PID 5976) | CPU:8.7% RAM:391MB Score:-0.2317
+23:10:28 | explorer.exe (PID 10128) | CPU:0.0% RAM:373MB Score:-0.0059
+23:10:28 | python.exe (PID 20436) | CPU:94.7% RAM:223MB Score:-0.0319
+23:10:28 | Code.exe (PID 14452) | CPU:0.0% RAM:122MB Score:-0.0217
+23:10:28 | System (PID 4) | CPU:5.3% RAM:5MB Score:-0.239
+23:10:28 | System Idle Process (PID 0) | CPU:1706.7% RAM:0MB Score:-0.2504
+23:10:28 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0175
+23:10:28 | chrome.exe (PID 3564) | CPU:10.0% RAM:418MB Score:-0.1046
+23:10:28 | chrome.exe (PID 5976) | CPU:6.2% RAM:391MB Score:-0.2272
+23:10:28 | explorer.exe (PID 10128) | CPU:0.2% RAM:373MB Score:-0.0043
+23:10:28 | python.exe (PID 20436) | CPU:95.3% RAM:223MB Score:-0.0293
+23:10:28 | Code.exe (PID 14452) | CPU:0.0% RAM:122MB Score:-0.0201
+23:10:28 | System (PID 4) | CPU:1.0% RAM:5MB Score:-0.2322
+23:10:28 | System Idle Process (PID 0) | CPU:1852.5% RAM:0MB Score:-0.2434
+23:10:29 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0037
+23:10:29 | chrome.exe (PID 27568) | CPU:3.5% RAM:551MB Score:-0.005
+23:10:29 | chrome.exe (PID 3564) | CPU:0.0% RAM:394MB Score:-0.0398
+23:10:29 | chrome.exe (PID 5976) | CPU:0.0% RAM:391MB Score:-0.2138
+23:10:29 | python.exe (PID 20436) | CPU:96.4% RAM:223MB Score:-0.0146
+23:10:29 | Code.exe (PID 14452) | CPU:0.0% RAM:122MB Score:-0.0075
+23:10:29 | System (PID 4) | CPU:4.8% RAM:5MB Score:-0.2165
+23:10:29 | System Idle Process (PID 0) | CPU:2008.3% RAM:0MB Score:-0.2282
+23:10:30 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0083
+23:10:30 | chrome.exe (PID 3564) | CPU:6.7% RAM:394MB Score:-0.0902
+23:10:30 | chrome.exe (PID 5976) | CPU:9.6% RAM:391MB Score:-0.2277
+23:10:30 | explorer.exe (PID 10128) | CPU:1.7% RAM:373MB Score:-0.0188
+23:10:30 | python.exe (PID 20436) | CPU:98.2% RAM:223MB Score:-0.0318
+23:10:30 | Code.exe (PID 14452) | CPU:0.0% RAM:122MB Score:-0.023
+23:10:30 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2274
+23:10:30 | System Idle Process (PID 0) | CPU:1579.1% RAM:0MB Score:-0.2385
+23:11:20 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0196
+23:11:20 | chrome.exe (PID 3564) | CPU:6.8% RAM:479MB Score:-0.0942
+23:11:20 | chrome.exe (PID 5976) | CPU:4.7% RAM:393MB Score:-0.2257
+23:11:20 | explorer.exe (PID 10128) | CPU:0.0% RAM:370MB Score:-0.0045
+23:11:20 | python.exe (PID 20436) | CPU:93.2% RAM:223MB Score:-0.021
+23:11:20 | Code.exe (PID 14452) | CPU:0.0% RAM:122MB Score:-0.0088
+23:11:20 | System (PID 4) | CPU:4.2% RAM:5MB Score:-0.2295
+23:11:20 | System Idle Process (PID 0) | CPU:1834.3% RAM:0MB Score:-0.2437
+23:11:20 | Code.exe (PID 14436) | CPU:0.9% RAM:778MB Score:-0.0361
+23:11:20 | chrome.exe (PID 3564) | CPU:0.8% RAM:464MB Score:-0.0814
+23:11:20 | chrome.exe (PID 5976) | CPU:4.5% RAM:396MB Score:-0.2468
+23:11:20 | explorer.exe (PID 10128) | CPU:0.0% RAM:370MB Score:-0.0031
+23:11:20 | python.exe (PID 20436) | CPU:89.4% RAM:223MB Score:-0.0407
+23:11:20 | Code.exe (PID 14452) | CPU:0.0% RAM:122MB Score:-0.0264
+23:11:20 | System (PID 4) | CPU:3.6% RAM:5MB Score:-0.2417
+23:11:20 | System Idle Process (PID 0) | CPU:1545.8% RAM:0MB Score:-0.2539
+23:11:21 | Code.exe (PID 14436) | CPU:0.2% RAM:778MB Score:-0.0349
+23:11:21 | chrome.exe (PID 3564) | CPU:1.0% RAM:475MB Score:-0.0742
+23:11:21 | chrome.exe (PID 5976) | CPU:13.2% RAM:392MB Score:-0.2456
+23:11:21 | explorer.exe (PID 10128) | CPU:0.0% RAM:370MB Score:-0.0049
+23:11:21 | python.exe (PID 20436) | CPU:91.9% RAM:223MB Score:-0.037
+23:11:21 | Code.exe (PID 14452) | CPU:0.0% RAM:122MB Score:-0.014
+23:11:21 | System (PID 4) | CPU:10.0% RAM:5MB Score:-0.2413
+23:11:21 | System Idle Process (PID 0) | CPU:2064.2% RAM:0MB Score:-0.2564
+23:11:21 | Code.exe (PID 14436) | CPU:2.5% RAM:778MB Score:-0.0511
+23:11:21 | ProtonVPN.Client.exe (PID 19928) | CPU:5.9% RAM:549MB Score:-0.0007
+23:11:21 | chrome.exe (PID 3564) | CPU:1.7% RAM:449MB Score:-0.1005
+23:11:21 | chrome.exe (PID 5976) | CPU:0.6% RAM:390MB Score:-0.2465
+23:11:21 | python.exe (PID 20436) | CPU:88.4% RAM:223MB Score:-0.0231
+23:11:21 | Code.exe (PID 14452) | CPU:20.2% RAM:147MB Score:-0.0955
+23:11:21 | System (PID 4) | CPU:8.0% RAM:5MB Score:-0.2507
+23:11:21 | System Idle Process (PID 0) | CPU:1814.4% RAM:0MB Score:-0.2529
+23:11:22 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0326
+23:11:22 | chrome.exe (PID 3564) | CPU:3.1% RAM:464MB Score:-0.0829
+23:11:22 | chrome.exe (PID 5976) | CPU:0.0% RAM:390MB Score:-0.2405
+23:11:22 | explorer.exe (PID 10128) | CPU:0.7% RAM:371MB Score:-0.0051
+23:11:22 | python.exe (PID 20436) | CPU:93.5% RAM:223MB Score:-0.0333
+23:11:22 | Code.exe (PID 14452) | CPU:6.9% RAM:142MB Score:-0.0604
+23:11:22 | System (PID 4) | CPU:13.4% RAM:5MB Score:-0.2453
+23:11:22 | System Idle Process (PID 0) | CPU:1862.3% RAM:0MB Score:-0.2531
+23:11:22 | chrome.exe (PID 3564) | CPU:4.1% RAM:785MB Score:-0.1208
+23:11:22 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0315
+23:11:22 | chrome.exe (PID 27568) | CPU:0.0% RAM:553MB Score:-0.0009
+23:11:22 | chrome.exe (PID 5976) | CPU:1.5% RAM:390MB Score:-0.2371
+23:11:22 | python.exe (PID 20436) | CPU:91.7% RAM:223MB Score:-0.0299
+23:11:22 | Code.exe (PID 14452) | CPU:3.4% RAM:147MB Score:-0.0518
+23:11:22 | System (PID 4) | CPU:3.7% RAM:5MB Score:-0.2351
+23:11:22 | System Idle Process (PID 0) | CPU:1758.2% RAM:0MB Score:-0.2504
+23:11:32 | Code.exe (PID 14436) | CPU:0.5% RAM:779MB Score:-0.0321
+23:11:32 | chrome.exe (PID 3564) | CPU:4.1% RAM:656MB Score:-0.0942
+23:11:32 | chrome.exe (PID 27568) | CPU:23.7% RAM:532MB Score:-0.0226
+23:11:32 | chrome.exe (PID 5976) | CPU:4.1% RAM:390MB Score:-0.2279
+23:11:32 | python.exe (PID 20436) | CPU:83.7% RAM:223MB Score:-0.0035
+23:11:32 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0156
+23:11:32 | System (PID 4) | CPU:4.9% RAM:5MB Score:-0.23
+23:11:32 | System Idle Process (PID 0) | CPU:1866.9% RAM:0MB Score:-0.2413
+23:11:42 | Code.exe (PID 14436) | CPU:0.3% RAM:778MB Score:-0.0407
+23:11:42 | chrome.exe (PID 3564) | CPU:5.0% RAM:616MB Score:-0.1061
+23:11:42 | chrome.exe (PID 5976) | CPU:5.6% RAM:391MB Score:-0.2451
+23:11:42 | explorer.exe (PID 10128) | CPU:0.0% RAM:371MB Score:-0.0011
+23:11:42 | python.exe (PID 20436) | CPU:81.7% RAM:223MB Score:-0.0336
+23:11:42 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0264
+23:11:42 | System (PID 4) | CPU:5.2% RAM:5MB Score:-0.2405
+23:11:42 | System Idle Process (PID 0) | CPU:1825.9% RAM:0MB Score:-0.2547
+23:12:01 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0433
+23:12:01 | chrome.exe (PID 3564) | CPU:5.6% RAM:499MB Score:-0.1053
+23:12:01 | chrome.exe (PID 5976) | CPU:8.9% RAM:390MB Score:-0.2487
+23:12:01 | explorer.exe (PID 10128) | CPU:0.4% RAM:371MB Score:-0.0022
+23:12:01 | python.exe (PID 20436) | CPU:81.9% RAM:223MB Score:-0.0477
+23:12:01 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0251
+23:12:01 | System (PID 4) | CPU:8.8% RAM:5MB Score:-0.2463
+23:12:01 | System Idle Process (PID 0) | CPU:1825.7% RAM:0MB Score:-0.2558
+23:12:02 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0399
+23:12:02 | chrome.exe (PID 27568) | CPU:0.0% RAM:528MB Score:-0.0001
+23:12:02 | chrome.exe (PID 3564) | CPU:7.4% RAM:517MB Score:-0.1073
+23:12:02 | chrome.exe (PID 5976) | CPU:10.1% RAM:391MB Score:-0.2452
+23:12:02 | python.exe (PID 20436) | CPU:97.0% RAM:223MB Score:-0.0302
+23:12:02 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0314
+23:12:02 | System (PID 4) | CPU:3.7% RAM:5MB Score:-0.2436
+23:12:02 | System Idle Process (PID 0) | CPU:1849.5% RAM:0MB Score:-0.2547
+23:12:20 | Code.exe (PID 14436) | CPU:0.1% RAM:778MB Score:-0.0314
+23:12:20 | chrome.exe (PID 3564) | CPU:3.5% RAM:683MB Score:-0.1221
+23:12:20 | chrome.exe (PID 5976) | CPU:2.2% RAM:388MB Score:-0.2484
+23:12:20 | explorer.exe (PID 10128) | CPU:0.0% RAM:371MB Score:-0.0028
+23:12:20 | python.exe (PID 20436) | CPU:79.6% RAM:223MB Score:-0.042
+23:12:20 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0274
+23:12:20 | System (PID 4) | CPU:4.3% RAM:5MB Score:-0.2432
+23:12:20 | System Idle Process (PID 0) | CPU:1858.5% RAM:0MB Score:-0.2598
+23:12:21 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0453
+23:12:21 | chrome.exe (PID 3564) | CPU:0.0% RAM:554MB Score:-0.0858
+23:12:21 | chrome.exe (PID 5976) | CPU:1.5% RAM:386MB Score:-0.2498
+23:12:21 | explorer.exe (PID 10128) | CPU:0.0% RAM:371MB Score:-0.0024
+23:12:21 | python.exe (PID 20436) | CPU:95.7% RAM:223MB Score:-0.0503
+23:12:21 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0302
+23:12:21 | System (PID 4) | CPU:4.3% RAM:5MB Score:-0.2506
+23:12:21 | System Idle Process (PID 0) | CPU:1877.9% RAM:0MB Score:-0.2599
+23:12:39 | Code.exe (PID 14436) | CPU:0.2% RAM:778MB Score:-0.0405
+23:12:39 | chrome.exe (PID 3564) | CPU:1.0% RAM:532MB Score:-0.0812
+23:12:39 | chrome.exe (PID 5976) | CPU:2.2% RAM:386MB Score:-0.2452
+23:12:39 | explorer.exe (PID 10128) | CPU:0.0% RAM:371MB Score:-0.0036
+23:12:39 | python.exe (PID 20436) | CPU:80.2% RAM:223MB Score:-0.0297
+23:12:39 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0204
+23:12:39 | System (PID 4) | CPU:2.3% RAM:5MB Score:-0.2353
+23:12:39 | System Idle Process (PID 0) | CPU:1877.7% RAM:0MB Score:-0.255
+23:12:39 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0258
+23:12:39 | chrome.exe (PID 3564) | CPU:1.3% RAM:566MB Score:-0.0886
+23:12:39 | chrome.exe (PID 5976) | CPU:0.6% RAM:385MB Score:-0.2321
+23:12:39 | explorer.exe (PID 10128) | CPU:0.0% RAM:371MB Score:-0.0041
+23:12:39 | python.exe (PID 20436) | CPU:92.9% RAM:223MB Score:-0.0403
+23:12:39 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0201
+23:12:39 | System (PID 4) | CPU:1.3% RAM:5MB Score:-0.2335
+23:12:39 | System Idle Process (PID 0) | CPU:1863.9% RAM:0MB Score:-0.2533
+23:12:49 | Code.exe (PID 14436) | CPU:0.1% RAM:778MB Score:-0.0278
+23:12:49 | chrome.exe (PID 3564) | CPU:1.5% RAM:740MB Score:-0.0979
+23:12:49 | chrome.exe (PID 5976) | CPU:1.5% RAM:385MB Score:-0.2397
+23:12:49 | explorer.exe (PID 10128) | CPU:0.1% RAM:371MB Score:-0.0055
+23:12:49 | python.exe (PID 20436) | CPU:83.0% RAM:223MB Score:-0.0074
+23:12:49 | Code.exe (PID 14452) | CPU:0.1% RAM:146MB Score:-0.0226
+23:12:49 | System (PID 4) | CPU:1.7% RAM:5MB Score:-0.2346
+23:12:49 | System Idle Process (PID 0) | CPU:1874.7% RAM:0MB Score:-0.2512
+23:12:59 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0339
+23:12:59 | chrome.exe (PID 3564) | CPU:1.6% RAM:513MB Score:-0.0833
+23:12:59 | chrome.exe (PID 5976) | CPU:1.3% RAM:385MB Score:-0.2409
+23:12:59 | explorer.exe (PID 10128) | CPU:0.1% RAM:371MB Score:-0.0045
+23:12:59 | python.exe (PID 20436) | CPU:71.5% RAM:223MB Score:-0.0311
+23:12:59 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0202
+23:12:59 | System (PID 4) | CPU:2.5% RAM:5MB Score:-0.2401
+23:12:59 | System Idle Process (PID 0) | CPU:1876.3% RAM:0MB Score:-0.2526
+23:13:08 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0458
+23:13:08 | chrome.exe (PID 3564) | CPU:0.3% RAM:485MB Score:-0.0964
+23:13:08 | chrome.exe (PID 5976) | CPU:0.5% RAM:385MB Score:-0.255
+23:13:08 | explorer.exe (PID 10128) | CPU:0.0% RAM:371MB Score:-0.0042
+23:13:08 | python.exe (PID 20436) | CPU:81.2% RAM:223MB Score:-0.0471
+23:13:08 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0229
+23:13:08 | System (PID 4) | CPU:2.2% RAM:5MB Score:-0.2522
+23:13:08 | System Idle Process (PID 0) | CPU:1872.0% RAM:0MB Score:-0.2731
+23:13:28 | Code.exe (PID 14436) | CPU:0.9% RAM:779MB Score:-0.0531
+23:13:28 | chrome.exe (PID 3564) | CPU:0.8% RAM:491MB Score:-0.0901
+23:13:28 | chrome.exe (PID 5976) | CPU:1.9% RAM:388MB Score:-0.24
+23:13:28 | explorer.exe (PID 10128) | CPU:0.0% RAM:369MB Score:-0.0029
+23:13:28 | python.exe (PID 20436) | CPU:78.3% RAM:223MB Score:-0.0315
+23:13:28 | Code.exe (PID 14452) | CPU:0.1% RAM:146MB Score:-0.0273
+23:13:28 | System (PID 4) | CPU:1.0% RAM:5MB Score:-0.2395
+23:13:28 | System Idle Process (PID 0) | CPU:1888.6% RAM:0MB Score:-0.2624
+23:13:28 | Code.exe (PID 14436) | CPU:0.0% RAM:779MB Score:-0.0338
+23:13:28 | chrome.exe (PID 3564) | CPU:2.1% RAM:465MB Score:-0.0946
+23:13:28 | chrome.exe (PID 5976) | CPU:2.7% RAM:387MB Score:-0.2475
+23:13:28 | explorer.exe (PID 10128) | CPU:0.0% RAM:369MB Score:-0.0057
+23:13:28 | python.exe (PID 20436) | CPU:92.7% RAM:223MB Score:-0.0405
+23:13:28 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0293
+23:13:28 | System (PID 4) | CPU:3.9% RAM:5MB Score:-0.2459
+23:13:28 | System Idle Process (PID 0) | CPU:1800.2% RAM:0MB Score:-0.2528
+23:13:47 | Code.exe (PID 14436) | CPU:0.3% RAM:778MB Score:-0.0424
+23:13:47 | chrome.exe (PID 3564) | CPU:1.9% RAM:459MB Score:-0.0958
+23:13:47 | chrome.exe (PID 5976) | CPU:1.8% RAM:388MB Score:-0.2472
+23:13:47 | explorer.exe (PID 10128) | CPU:0.0% RAM:369MB Score:-0.0066
+23:13:47 | python.exe (PID 20436) | CPU:77.2% RAM:223MB Score:-0.022
+23:13:47 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0379
+23:13:47 | System (PID 4) | CPU:3.7% RAM:5MB Score:-0.2414
+23:13:47 | System Idle Process (PID 0) | CPU:1877.8% RAM:0MB Score:-0.2661
+23:13:48 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0409
+23:13:48 | chrome.exe (PID 3564) | CPU:2.0% RAM:459MB Score:-0.0896
+23:13:48 | chrome.exe (PID 5976) | CPU:0.0% RAM:388MB Score:-0.2405
+23:13:48 | explorer.exe (PID 10128) | CPU:0.0% RAM:369MB Score:-0.008
+23:13:48 | python.exe (PID 20436) | CPU:97.3% RAM:223MB Score:-0.0334
+23:13:48 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0407
+23:13:48 | System (PID 4) | CPU:1.4% RAM:5MB Score:-0.243
+23:13:48 | System Idle Process (PID 0) | CPU:1843.4% RAM:0MB Score:-0.2556
+23:14:06 | Code.exe (PID 14436) | CPU:0.2% RAM:778MB Score:-0.0515
+23:14:06 | chrome.exe (PID 3564) | CPU:0.3% RAM:452MB Score:-0.0857
+23:14:06 | chrome.exe (PID 5976) | CPU:1.2% RAM:386MB Score:-0.2528
+23:14:06 | explorer.exe (PID 10128) | CPU:0.0% RAM:336MB Score:-0.006
+23:14:06 | python.exe (PID 20436) | CPU:80.0% RAM:223MB Score:-0.0338
+23:14:06 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0383
+23:14:06 | System (PID 4) | CPU:2.4% RAM:5MB Score:-0.2465
+23:14:06 | System Idle Process (PID 0) | CPU:1874.0% RAM:0MB Score:-0.2649
+23:14:07 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0463
+23:14:07 | chrome.exe (PID 3564) | CPU:5.4% RAM:480MB Score:-0.1168
+23:14:07 | chrome.exe (PID 5976) | CPU:0.5% RAM:386MB Score:-0.2548
+23:14:07 | explorer.exe (PID 10128) | CPU:0.0% RAM:336MB Score:-0.001
+23:14:07 | python.exe (PID 20436) | CPU:96.9% RAM:223MB Score:-0.0461
+23:14:07 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0393
+23:14:07 | System (PID 4) | CPU:4.0% RAM:5MB Score:-0.2548
+23:14:07 | System Idle Process (PID 0) | CPU:1851.4% RAM:0MB Score:-0.2602
+23:14:17 | Code.exe (PID 14436) | CPU:0.1% RAM:778MB Score:-0.0548
+23:14:17 | chrome.exe (PID 3564) | CPU:0.6% RAM:477MB Score:-0.0797
+23:14:17 | chrome.exe (PID 5976) | CPU:2.3% RAM:385MB Score:-0.2463
+23:14:17 | explorer.exe (PID 10128) | CPU:0.1% RAM:334MB Score:-0.0037
+23:14:17 | python.exe (PID 20436) | CPU:73.2% RAM:223MB Score:-0.0278
+23:14:17 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0325
+23:14:17 | System (PID 4) | CPU:3.5% RAM:5MB Score:-0.2453
+23:14:17 | System Idle Process (PID 0) | CPU:1864.6% RAM:0MB Score:-0.2572
+23:14:26 | Code.exe (PID 14436) | CPU:0.5% RAM:778MB Score:-0.0465
+23:14:26 | chrome.exe (PID 3564) | CPU:1.4% RAM:457MB Score:-0.092
+23:14:26 | chrome.exe (PID 5976) | CPU:0.7% RAM:384MB Score:-0.248
+23:14:26 | explorer.exe (PID 10128) | CPU:0.2% RAM:334MB Score:-0.0047
+23:14:26 | python.exe (PID 20436) | CPU:82.5% RAM:223MB Score:-0.0123
+23:14:26 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0414
+23:14:26 | System (PID 4) | CPU:1.2% RAM:5MB Score:-0.2415
+23:14:26 | System Idle Process (PID 0) | CPU:1873.0% RAM:0MB Score:-0.2576
+23:14:44 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0669
+23:14:44 | chrome.exe (PID 27568) | CPU:0.0% RAM:544MB Score:-0.0004
+23:14:44 | chrome.exe (PID 3564) | CPU:0.6% RAM:467MB Score:-0.1089
+23:14:44 | chrome.exe (PID 5976) | CPU:3.4% RAM:387MB Score:-0.259
+23:14:44 | python.exe (PID 20436) | CPU:80.9% RAM:223MB Score:-0.0298
+23:14:44 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0464
+23:14:44 | System (PID 4) | CPU:1.9% RAM:5MB Score:-0.2526
+23:14:44 | System Idle Process (PID 0) | CPU:1886.5% RAM:0MB Score:-0.2686
+23:14:45 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0478
+23:14:45 | chrome.exe (PID 3564) | CPU:0.0% RAM:466MB Score:-0.0955
+23:14:45 | chrome.exe (PID 5976) | CPU:1.1% RAM:387MB Score:-0.2484
+23:14:45 | explorer.exe (PID 10128) | CPU:0.0% RAM:335MB Score:-0.0011
+23:14:45 | python.exe (PID 20436) | CPU:93.1% RAM:223MB Score:-0.0362
+23:14:45 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0387
+23:14:45 | System (PID 4) | CPU:1.4% RAM:5MB Score:-0.2451
+23:14:45 | System Idle Process (PID 0) | CPU:1855.9% RAM:0MB Score:-0.2586
+23:15:03 | Code.exe (PID 14436) | CPU:0.3% RAM:778MB Score:-0.0501
+23:15:03 | chrome.exe (PID 3564) | CPU:0.5% RAM:465MB Score:-0.0907
+23:15:03 | chrome.exe (PID 5976) | CPU:0.9% RAM:386MB Score:-0.2531
+23:15:03 | explorer.exe (PID 10128) | CPU:0.2% RAM:336MB Score:-0.0025
+23:15:03 | python.exe (PID 20436) | CPU:80.4% RAM:223MB Score:-0.028
+23:15:03 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0363
+23:15:03 | System (PID 4) | CPU:3.4% RAM:5MB Score:-0.2455
+23:15:03 | System Idle Process (PID 0) | CPU:1873.7% RAM:0MB Score:-0.2646
+23:15:03 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0417
+23:15:03 | chrome.exe (PID 27568) | CPU:1.2% RAM:544MB Score:-0.0008
+23:15:03 | chrome.exe (PID 3564) | CPU:0.0% RAM:448MB Score:-0.0801
+23:15:03 | chrome.exe (PID 5976) | CPU:2.0% RAM:384MB Score:-0.2454
+23:15:03 | python.exe (PID 20436) | CPU:91.4% RAM:223MB Score:-0.0419
+23:15:03 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0359
+23:15:03 | System (PID 4) | CPU:4.9% RAM:5MB Score:-0.2445
+23:15:03 | System Idle Process (PID 0) | CPU:1831.4% RAM:0MB Score:-0.2538
+23:15:15 | Code.exe (PID 14436) | CPU:0.2% RAM:778MB Score:-0.0453
+23:15:15 | chrome.exe (PID 3564) | CPU:1.6% RAM:472MB Score:-0.0954
+23:15:15 | chrome.exe (PID 5976) | CPU:1.1% RAM:384MB Score:-0.2549
+23:15:15 | explorer.exe (PID 10128) | CPU:0.0% RAM:336MB Score:-0.0023
+23:15:15 | python.exe (PID 20436) | CPU:71.2% RAM:223MB Score:-0.0335
+23:15:15 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0435
+23:15:15 | System (PID 4) | CPU:2.2% RAM:5MB Score:-0.2485
+23:15:15 | System Idle Process (PID 0) | CPU:1878.7% RAM:0MB Score:-0.2651
+23:15:24 | Code.exe (PID 14436) | CPU:0.8% RAM:778MB Score:-0.0322
+23:15:24 | chrome.exe (PID 3564) | CPU:0.5% RAM:449MB Score:-0.0909
+23:15:24 | chrome.exe (PID 5976) | CPU:3.0% RAM:383MB Score:-0.2368
+23:15:24 | explorer.exe (PID 10128) | CPU:0.2% RAM:336MB Score:-0.006
+23:15:24 | python.exe (PID 20436) | CPU:83.5% RAM:223MB Score:-0.0274
+23:15:24 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0246
+23:15:24 | System (PID 4) | CPU:2.9% RAM:5MB Score:-0.2389
+23:15:24 | System Idle Process (PID 0) | CPU:1861.8% RAM:0MB Score:-0.253
+23:15:42 | Code.exe (PID 14436) | CPU:0.2% RAM:778MB Score:-0.0511
+23:15:42 | chrome.exe (PID 3564) | CPU:0.4% RAM:458MB Score:-0.107
+23:15:42 | chrome.exe (PID 5976) | CPU:0.8% RAM:383MB Score:-0.2575
+23:15:42 | explorer.exe (PID 10128) | CPU:0.0% RAM:336MB Score:-0.0053
+23:15:42 | python.exe (PID 20436) | CPU:80.4% RAM:223MB Score:-0.0357
+23:15:42 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0404
+23:15:42 | System (PID 4) | CPU:4.0% RAM:5MB Score:-0.2554
+23:15:42 | System Idle Process (PID 0) | CPU:1883.2% RAM:0MB Score:-0.2647
+23:15:43 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0397
+23:15:43 | chrome.exe (PID 3564) | CPU:2.1% RAM:458MB Score:-0.0978
+23:15:43 | chrome.exe (PID 5976) | CPU:1.5% RAM:383MB Score:-0.2434
+23:15:43 | explorer.exe (PID 10128) | CPU:0.0% RAM:336MB Score:-0.0029
+23:15:43 | python.exe (PID 20436) | CPU:90.1% RAM:223MB Score:-0.0388
+23:15:43 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0399
+23:15:43 | System (PID 4) | CPU:2.6% RAM:5MB Score:-0.2425
+23:15:43 | System Idle Process (PID 0) | CPU:1827.8% RAM:0MB Score:-0.2515
+23:15:52 | Code.exe (PID 14436) | CPU:0.4% RAM:778MB Score:-0.0549
+23:15:52 | chrome.exe (PID 3564) | CPU:0.8% RAM:448MB Score:-0.1079
+23:15:52 | chrome.exe (PID 5976) | CPU:0.8% RAM:383MB Score:-0.2645
+23:15:52 | explorer.exe (PID 10128) | CPU:0.0% RAM:336MB Score:-0.0018
+23:15:52 | python.exe (PID 20436) | CPU:84.2% RAM:223MB Score:-0.037
+23:15:52 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0459
+23:15:52 | System (PID 4) | CPU:2.3% RAM:5MB Score:-0.2531
+23:15:52 | System Idle Process (PID 0) | CPU:1872.5% RAM:0MB Score:-0.2711
+23:16:03 | Code.exe (PID 14436) | CPU:0.3% RAM:778MB Score:-0.0399
+23:16:03 | chrome.exe (PID 27568) | CPU:1.9% RAM:546MB Score:-0.0009
+23:16:03 | chrome.exe (PID 3564) | CPU:1.2% RAM:463MB Score:-0.089
+23:16:03 | chrome.exe (PID 5976) | CPU:2.8% RAM:383MB Score:-0.2473
+23:16:03 | python.exe (PID 20436) | CPU:72.7% RAM:223MB Score:-0.0244
+23:16:03 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0358
+23:16:03 | System (PID 4) | CPU:1.5% RAM:5MB Score:-0.2373
+23:16:03 | System Idle Process (PID 0) | CPU:1879.4% RAM:0MB Score:-0.2569
+23:16:12 | Code.exe (PID 14436) | CPU:0.2% RAM:778MB Score:-0.0487
+23:16:12 | chrome.exe (PID 27568) | CPU:1.5% RAM:546MB Score:-0.0005
+23:16:12 | chrome.exe (PID 3564) | CPU:1.0% RAM:451MB Score:-0.1038
+23:16:12 | chrome.exe (PID 5976) | CPU:5.2% RAM:391MB Score:-0.2536
+23:16:12 | python.exe (PID 20436) | CPU:82.1% RAM:223MB Score:-0.0444
+23:16:12 | Code.exe (PID 14452) | CPU:5.4% RAM:151MB Score:-0.0683
+23:16:12 | System (PID 4) | CPU:1.3% RAM:5MB Score:-0.2546
+23:16:12 | System Idle Process (PID 0) | CPU:1862.5% RAM:0MB Score:-0.2687
+23:16:31 | Code.exe (PID 14436) | CPU:0.2% RAM:778MB Score:-0.0365
+23:16:31 | chrome.exe (PID 27568) | CPU:2.5% RAM:555MB Score:-0.0012
+23:16:31 | chrome.exe (PID 3564) | CPU:0.4% RAM:462MB Score:-0.0998
+23:16:31 | chrome.exe (PID 5976) | CPU:3.7% RAM:383MB Score:-0.2461
+23:16:31 | python.exe (PID 20436) | CPU:80.6% RAM:223MB Score:-0.0391
+23:16:31 | Code.exe (PID 14452) | CPU:2.1% RAM:150MB Score:-0.0457
+23:16:31 | System (PID 4) | CPU:3.1% RAM:5MB Score:-0.2428
+23:16:31 | System Idle Process (PID 0) | CPU:1874.6% RAM:0MB Score:-0.2618
+23:16:31 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0492
+23:16:31 | chrome.exe (PID 27568) | CPU:0.0% RAM:555MB Score:-0.0001
+23:16:31 | chrome.exe (PID 3564) | CPU:5.6% RAM:438MB Score:-0.1222
+23:16:31 | chrome.exe (PID 5976) | CPU:0.0% RAM:383MB Score:-0.2472
+23:16:31 | python.exe (PID 20436) | CPU:91.6% RAM:223MB Score:-0.0395
+23:16:31 | Code.exe (PID 14452) | CPU:0.0% RAM:150MB Score:-0.0396
+23:16:31 | System (PID 4) | CPU:0.0% RAM:5MB Score:-0.2481
+23:16:31 | System Idle Process (PID 0) | CPU:1853.1% RAM:0MB Score:-0.2635
+23:16:41 | Code.exe (PID 14436) | CPU:0.3% RAM:778MB Score:-0.0414
+23:16:41 | chrome.exe (PID 5976) | CPU:2.8% RAM:383MB Score:-0.2487
+23:16:41 | chrome.exe (PID 3564) | CPU:0.8% RAM:341MB Score:-0.0855
+23:16:41 | explorer.exe (PID 10128) | CPU:0.3% RAM:336MB Score:-0.0022
+23:16:41 | python.exe (PID 20436) | CPU:83.1% RAM:223MB Score:-0.029
+23:16:41 | Code.exe (PID 14452) | CPU:0.0% RAM:150MB Score:-0.0342
+23:16:41 | System (PID 4) | CPU:3.2% RAM:5MB Score:-0.2447
+23:16:41 | System Idle Process (PID 0) | CPU:1866.1% RAM:0MB Score:-0.2601
+23:17:00 | Code.exe (PID 14436) | CPU:0.6% RAM:778MB Score:-0.0625
+23:17:00 | chrome.exe (PID 27568) | CPU:0.0% RAM:555MB Score:-0.0005
+23:17:00 | chrome.exe (PID 5976) | CPU:0.9% RAM:383MB Score:-0.2462
+23:17:00 | chrome.exe (PID 3564) | CPU:1.3% RAM:352MB Score:-0.1123
+23:17:00 | python.exe (PID 20436) | CPU:78.4% RAM:223MB Score:-0.05
+23:17:00 | Code.exe (PID 14452) | CPU:0.0% RAM:150MB Score:-0.0409
+23:17:00 | System (PID 4) | CPU:6.3% RAM:5MB Score:-0.2571
+23:17:00 | System Idle Process (PID 0) | CPU:1813.7% RAM:0MB Score:-0.2692
+23:17:00 | Code.exe (PID 14436) | CPU:0.0% RAM:778MB Score:-0.0476
+23:17:00 | chrome.exe (PID 27568) | CPU:0.0% RAM:555MB Score:-0.004
+23:17:00 | chrome.exe (PID 5976) | CPU:0.4% RAM:383MB Score:-0.2421
+23:17:00 | chrome.exe (PID 3564) | CPU:0.0% RAM:352MB Score:-0.0978
+23:17:00 | python.exe (PID 20436) | CPU:95.8% RAM:223MB Score:-0.0462
+23:17:00 | Code.exe (PID 14452) | CPU:0.0% RAM:150MB Score:-0.0157
+23:17:00 | System (PID 4) | CPU:3.6% RAM:5MB Score:-0.2417
+23:17:00 | System Idle Process (PID 0) | CPU:1806.4% RAM:0MB Score:-0.2547
+23:17:12 | Code.exe (PID 14436) | CPU:0.1% RAM:778MB Score:-0.046
+23:17:12 | chrome.exe (PID 27568) | CPU:0.0% RAM:555MB Score:-0.0017
+23:17:12 | chrome.exe (PID 5976) | CPU:1.3% RAM:384MB Score:-0.2514
+23:17:12 | chrome.exe (PID 3564) | CPU:1.4% RAM:382MB Score:-0.1079
+23:17:12 | python.exe (PID 20436) | CPU:71.2% RAM:223MB Score:-0.0189
+23:17:12 | Code.exe (PID 14452) | CPU:0.0% RAM:150MB Score:-0.0421
+23:17:12 | System (PID 4) | CPU:3.3% RAM:5MB Score:-0.2438
+23:17:12 | System Idle Process (PID 0) | CPU:1878.1% RAM:0MB Score:-0.2653
+23:17:22 | Code.exe (PID 14436) | CPU:0.5% RAM:778MB Score:-0.0544
+23:17:22 | chrome.exe (PID 27568) | CPU:0.0% RAM:555MB Score:-0.0019
+23:17:22 | chrome.exe (PID 5976) | CPU:0.5% RAM:384MB Score:-0.2509
+23:17:22 | chrome.exe (PID 3564) | CPU:0.5% RAM:359MB Score:-0.0943
+23:17:22 | python.exe (PID 20436) | CPU:83.8% RAM:223MB Score:-0.0445
+23:17:22 | Code.exe (PID 14452) | CPU:0.0% RAM:150MB Score:-0.0329
+23:17:22 | System (PID 4) | CPU:2.2% RAM:5MB Score:-0.2439
+23:17:22 | System Idle Process (PID 0) | CPU:1877.9% RAM:0MB Score:-0.2605
+23:17:38 | Code.exe (PID 14436) | CPU:0.7% RAM:767MB Score:-0.0518
+23:17:38 | chrome.exe (PID 5976) | CPU:0.7% RAM:383MB Score:-0.2467
+23:17:38 | chrome.exe (PID 3564) | CPU:1.0% RAM:368MB Score:-0.0959
+23:17:38 | explorer.exe (PID 10128) | CPU:0.1% RAM:336MB Score:-0.0031
+23:17:38 | python.exe (PID 20436) | CPU:75.7% RAM:223MB Score:-0.0251
+23:17:38 | Code.exe (PID 14452) | CPU:0.0% RAM:149MB Score:-0.0437
+23:17:38 | System (PID 4) | CPU:2.5% RAM:5MB Score:-0.2439
+23:17:38 | System Idle Process (PID 0) | CPU:1880.9% RAM:0MB Score:-0.2642
+23:17:43 | Code.exe (PID 14436) | CPU:0.2% RAM:766MB Score:-0.033
+23:17:43 | chrome.exe (PID 5976) | CPU:0.4% RAM:378MB Score:-0.244
+23:17:43 | chrome.exe (PID 3564) | CPU:0.0% RAM:338MB Score:-0.0824
+23:17:43 | explorer.exe (PID 10128) | CPU:0.4% RAM:328MB Score:-0.0054
+23:17:43 | python.exe (PID 20436) | CPU:94.5% RAM:220MB Score:-0.0411
+23:17:43 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.014
+23:17:43 | System (PID 4) | CPU:2.5% RAM:5MB Score:-0.2424
+23:17:43 | System Idle Process (PID 0) | CPU:1769.4% RAM:0MB Score:-0.2542
+23:17:52 | Code.exe (PID 14436) | CPU:0.2% RAM:766MB Score:-0.0438
+23:17:52 | chrome.exe (PID 5976) | CPU:0.4% RAM:378MB Score:-0.2328
+23:17:52 | explorer.exe (PID 10128) | CPU:0.0% RAM:328MB Score:-0.0076
+23:17:52 | chrome.exe (PID 3564) | CPU:0.1% RAM:282MB Score:-0.0799
+23:17:52 | python.exe (PID 20436) | CPU:80.2% RAM:220MB Score:-0.0333
+23:17:52 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.0096
+23:17:52 | System (PID 4) | CPU:8.8% RAM:5MB Score:-0.242
+23:17:52 | System Idle Process (PID 0) | CPU:1790.4% RAM:0MB Score:-0.2415
+00:15:08 | Code.exe (PID 14436) | CPU:0.1% RAM:766MB Score:-0.0668
+00:15:08 | chrome.exe (PID 27568) | CPU:0.0% RAM:513MB Score:-0.0023
+00:15:08 | chrome.exe (PID 5976) | CPU:1.4% RAM:378MB Score:-0.2556
+00:15:08 | explorer.exe (PID 10128) | CPU:0.0% RAM:328MB Score:-0.0349
+00:15:08 | chrome.exe (PID 3564) | CPU:0.0% RAM:285MB Score:-0.0942
+00:15:08 | Code.exe (PID 14452) | CPU:0.0% RAM:146MB Score:-0.038
+00:15:08 | System (PID 4) | CPU:6.1% RAM:5MB Score:-0.2604
+00:15:08 | System Idle Process (PID 0) | CPU:1857.0% RAM:0MB Score:-0.2682
+00:15:09 | Code.exe (PID 14436) | CPU:0.0% RAM:767MB Score:-0.0541
+00:15:09 | chrome.exe (PID 27568) | CPU:0.0% RAM:513MB Score:-0.001
+00:15:09 | chrome.exe (PID 5976) | CPU:1.7% RAM:382MB Score:-0.2714
+00:15:09 | explorer.exe (PID 10128) | CPU:0.1% RAM:341MB Score:-0.1061
+00:15:09 | chrome.exe (PID 3564) | CPU:0.0% RAM:285MB Score:-0.1037
+00:15:09 | Code.exe (PID 14452) | CPU:0.0% RAM:148MB Score:-0.0856
+00:15:09 | System (PID 4) | CPU:3.5% RAM:5MB Score:-0.2763
+00:15:09 | System Idle Process (PID 0) | CPU:1847.3% RAM:0MB Score:-0.2712
+00:15:22 | Code.exe (PID 14436) | CPU:0.0% RAM:762MB Score:-0.0199
+00:15:22 | ProtonVPN.Client.exe (PID 19928) | CPU:2.7% RAM:462MB Score:-0.024
+00:15:22 | chrome.exe (PID 5976) | CPU:0.0% RAM:360MB Score:-0.2264
+00:15:22 | chrome.exe (PID 3564) | CPU:0.0% RAM:295MB Score:-0.0713
+00:15:22 | python.exe (PID 20436) | CPU:94.9% RAM:220MB Score:-0.1142
+00:15:22 | Code.exe (PID 14452) | CPU:0.0% RAM:138MB Score:-0.0114
+00:15:22 | System (PID 4) | CPU:0.3% RAM:4MB Score:-0.2243
+00:15:22 | System Idle Process (PID 0) | CPU:7.1% RAM:0MB Score:-0.1717
+00:15:24 | Code.exe (PID 14436) | CPU:2.2% RAM:763MB Score:-0.0488
+00:15:24 | explorer.exe (PID 10128) | CPU:4.6% RAM:386MB Score:-0.0487
+00:15:24 | chrome.exe (PID 5976) | CPU:0.6% RAM:362MB Score:-0.2395
+00:15:24 | chrome.exe (PID 3564) | CPU:0.0% RAM:282MB Score:-0.078
+00:15:24 | python.exe (PID 20436) | CPU:94.3% RAM:220MB Score:-0.0246
+00:15:24 | Code.exe (PID 14452) | CPU:0.0% RAM:138MB Score:-0.0214
+00:15:24 | System (PID 4) | CPU:16.1% RAM:4MB Score:-0.2401
+00:15:24 | System Idle Process (PID 0) | CPU:1760.3% RAM:0MB Score:-0.2472
+00:15:39 | Code.exe (PID 14436) | CPU:0.1% RAM:764MB Score:-0.0547
+00:15:39 | chrome.exe (PID 5976) | CPU:0.7% RAM:362MB Score:-0.244
+00:15:39 | explorer.exe (PID 10128) | CPU:0.0% RAM:362MB Score:-0.0275
+00:15:39 | chrome.exe (PID 3564) | CPU:0.4% RAM:292MB Score:-0.0923
+00:15:39 | python.exe (PID 20436) | CPU:78.5% RAM:220MB Score:-0.0395
+00:15:39 | Code.exe (PID 14452) | CPU:0.1% RAM:138MB Score:-0.0345
+00:15:39 | System (PID 4) | CPU:4.3% RAM:4MB Score:-0.2558
+00:15:39 | System Idle Process (PID 0) | CPU:1841.3% RAM:0MB Score:-0.2652
+00:15:40 | Code.exe (PID 14436) | CPU:0.0% RAM:764MB Score:-0.0425
+00:15:40 | explorer.exe (PID 10128) | CPU:1.5% RAM:362MB Score:-0.0504
+00:15:40 | chrome.exe (PID 5976) | CPU:0.4% RAM:361MB Score:-0.2512
+00:15:40 | chrome.exe (PID 3564) | CPU:0.0% RAM:292MB Score:-0.081
+00:15:40 | python.exe (PID 20436) | CPU:94.6% RAM:220MB Score:-0.0425
+00:15:40 | Code.exe (PID 14452) | CPU:0.0% RAM:138MB Score:-0.0345
+00:15:40 | System (PID 4) | CPU:5.9% RAM:4MB Score:-0.256
+00:15:40 | System Idle Process (PID 0) | CPU:1833.8% RAM:0MB Score:-0.2578
+00:15:49 | Code.exe (PID 14436) | CPU:0.7% RAM:764MB Score:-0.0364
+00:15:49 | chrome.exe (PID 3564) | CPU:3.2% RAM:420MB Score:-0.1008
+00:15:49 | chrome.exe (PID 5976) | CPU:7.7% RAM:260MB Score:-0.2398
+00:15:49 | python.exe (PID 20436) | CPU:68.8% RAM:220MB Score:-0.0095
+00:15:49 | Code.exe (PID 14452) | CPU:0.0% RAM:138MB Score:-0.0481
+00:15:49 | System (PID 4) | CPU:6.6% RAM:4MB Score:-0.2416
+00:15:49 | System Idle Process (PID 0) | CPU:1811.2% RAM:0MB Score:-0.2509

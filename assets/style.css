@@ -1,0 +1,20 @@
+/* WEBLYTIC LEVEL PROFESSIONAL UI — 100% WORKING */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {margin:0;font-family:'Inter',sans-serif;background:linear-gradient(135deg,#0f0f23,#1a1a2e);color:#e0e0ff;min-height:100vh;}
+.app {display:flex;min-height:100vh;}
+.sidebar {width:250px;background:rgba(20,20,40,0.95);padding:30px 20px;border-right:1px solid rgba(0,255,150,0.2);}
+.sidebar h2 {color:#00ff96;font-size:26px;margin-bottom:50px;font-weight:700;}
+.sidebar div {padding:15px 20px;margin:8px 0;border-radius:12px;cursor:pointer;transition:0.3s;}
+.sidebar div:hover {background:rgba(0,255,150,0.15);}
+.sidebar div:first-of-type {background:rgba(0,255,150,0.2);color:#00ff96;font-weight:600;}
+.main {flex:1;padding:30px;}
+.main h1 {font-size:36px;color:#00ff96;margin:0 0 10px 0;}
+.cards {display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:25px;margin:30px 0;}
+.card {background:rgba(30,30,60,0.8);border-radius:20px;padding:25px;text-align:center;border:1px solid rgba(0,255,150,0.3);box-shadow:0 10px 30px rgba(0,0,0,0.4);transition:0.4s;}
+.card:hover {transform:translateY(-10px);box-shadow:0 20px 40px rgba(0,255,150,0.2);}
+.card h4 {margin:0;opacity:0.8;font-weight:500;}
+.card h2 {margin:10px 0;font-size:42px;color:#00ff96;}
+.graph-box {background:rgba(30,30,60,0.8);border-radius:20px;padding:25px;margin-top:30px;border:1px solid rgba(100,100,255,0.2);}
+.graph-box h3 {color:#00ccff;margin-top:0;}
+@media (max-width:768px){.app{flex-direction:column;}.sidebar{width:100%;padding:15px;}.main{padding:15px;}}

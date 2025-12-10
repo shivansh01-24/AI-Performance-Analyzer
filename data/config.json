@@ -1,0 +1,6 @@
+{
+    "theme": "dark",
+    "auto_start_monitoring": true,
+    "refresh_interval_sec": 3,
+    "pdf_report_auto_save": true
+}
