@@ -1,0 +1,440 @@
+/* PROFESSIONAL AI-POWERED DASHBOARD UI - Production Grade */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ========== THEME VARIABLES ========== */
+:root {
+    --primary-color: #00ff96;
+    --secondary-color: #00ccff;
+    --danger-color: #ff3366;
+    --warning-color: #ffaa00;
+    --dark-bg: #0f0f23;
+    --card-bg: rgba(30, 30, 60, 0.8);
+    --border-color: rgba(0, 255, 150, 0.2);
+    --text-primary: #e0e0ff;
+    --text-secondary: #a0a0cc;
+}
+
+body {
+    background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%);
+    color: var(--text-primary);
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+/* ========== MAIN LAYOUT ========== */
+.app {
+    display: flex;
+    min-height: 100vh;
+    gap: 0;
+}
+
+/* ========== SIDEBAR ========== */
+.sidebar {
+    width: 280px;
+    background: rgba(20, 20, 40, 0.98);
+    padding: 35px 25px;
+    border-right: 1px solid var(--border-color);
+    box-shadow: 5px 0 20px rgba(0, 0, 0, 0.5);
+    overflow-y: auto;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+}
+
+.sidebar h2 {
+    color: var(--primary-color);
+    font-size: 28px;
+    margin-bottom: 40px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.sidebar h2::before {
+    content: '⚙️';
+    font-size: 24px;
+}
+
+.sidebar div {
+    padding: 16px 20px;
+    margin: 12px 0;
+    border-radius: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: 500;
+    font-size: 15px;
+    border-left: 3px solid transparent;
+    color: var(--text-secondary);
+}
+
+.sidebar div:hover {
+    background: rgba(0, 255, 150, 0.15);
+    color: var(--primary-color);
+    border-left-color: var(--primary-color);
+    transform: translateX(5px);
+}
+
+.sidebar div:first-of-type {
+    background: rgba(0, 255, 150, 0.2);
+    color: var(--primary-color);
+    font-weight: 700;
+    border-left-color: var(--primary-color);
+}
+
+/* ========== MAIN CONTENT ========== */
+.main {
+    flex: 1;
+    padding: 40px;
+    overflow-y: auto;
+    max-height: 100vh;
+}
+
+.main h1 {
+    font-size: 40px;
+    color: var(--primary-color);
+    margin: 0 0 8px 0;
+    font-weight: 800;
+    letter-spacing: -1px;
+}
+
+.main > p {
+    color: var(--text-secondary);
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+/* ========== CONTROLS BAR ========== */
+.main > div:first-of-type {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 35px;
+    flex-wrap: wrap;
+}
+
+button {
+    background: linear-gradient(135deg, rgba(0, 255, 150, 0.3), rgba(0, 204, 255, 0.3));
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+    padding: 12px 28px;
+    border-radius: 12px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 15px;
+    transition: all 0.3s ease;
+    font-family: 'Poppins', sans-serif;
+}
+
+button:hover {
+    background: linear-gradient(135deg, rgba(0, 255, 150, 0.5), rgba(0, 204, 255, 0.5));
+    box-shadow: 0 0 20px rgba(0, 255, 150, 0.4);
+    transform: translateY(-2px);
+}
+
+button:active {
+    transform: translateY(0);
+}
+
+#status-msg {
+    color: var(--primary-color);
+    padding: 12px 20px;
+    background: rgba(0, 255, 150, 0.1);
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+    font-size: 14px;
+    min-width: 250px;
+}
+
+/* ========== CARDS GRID ========== */
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 25px;
+    margin: 30px 0;
+}
+
+.card {
+    background: var(--card-bg);
+    border-radius: 20px;
+    padding: 30px;
+    text-align: center;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+    transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+    position: relative;
+    overflow: hidden;
+}
+
+.card::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -50%;
+    width: 100px;
+    height: 100px;
+    background: radial-gradient(circle, rgba(0, 255, 150, 0.1) 0%, transparent 70%);
+    transition: all 0.6s ease;
+}
+
+.card:hover {
+    transform: translateY(-15px);
+    box-shadow: 0 25px 50px rgba(0, 255, 150, 0.15);
+    border-color: rgba(0, 255, 150, 0.5);
+}
+
+.card:hover::before {
+    top: -20%;
+    right: -10%;
+}
+
+.card h4 {
+    margin: 0;
+    opacity: 0.7;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: var(--text-secondary);
+    margin-bottom: 15px;
+}
+
+.card h2 {
+    margin: 0;
+    font-size: 48px;
+    color: var(--primary-color);
+    font-weight: 800;
+    line-height: 1;
+}
+
+/* ========== GRAPHS SECTION ========== */
+.graph-box {
+    background: var(--card-bg);
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 30px;
+    border: 1px solid rgba(100, 100, 255, 0.2);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+}
+
+.graph-box:hover {
+    border-color: rgba(0, 255, 150, 0.3);
+    box-shadow: 0 15px 40px rgba(0, 255, 150, 0.1);
+}
+
+.graph-box h3 {
+    color: var(--secondary-color);
+    margin: 0 0 25px 0;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+}
+
+.graph-box .plotly {
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+/* ========== RESPONSIVE DESIGN ========== */
+@media (max-width: 1024px) {
+    .sidebar {
+        width: 240px;
+        padding: 25px 15px;
+    }
+    
+    .main {
+        padding: 30px;
+    }
+    
+    .cards {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .app {
+        flex-direction: column;
+    }
+    
+    .sidebar {
+        width: 100%;
+        height: auto;
+        padding: 20px;
+        border-right: none;
+        border-bottom: 1px solid var(--border-color);
+        position: relative;
+        sticky: none;
+    }
+    
+    .sidebar div {
+        display: inline-block;
+        margin: 8px 10px 8px 0;
+        padding: 12px 16px;
+    }
+    
+    .main {
+        padding: 20px;
+        max-height: none;
+    }
+    
+    .main h1 {
+        font-size: 28px;
+    }
+    
+    .cards {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+    }
+    
+    .card {
+        padding: 20px;
+    }
+    
+    .card h2 {
+        font-size: 36px;
+    }
+    
+    .main > div:first-of-type {
+        flex-direction: column;
+    }
+    
+    button {
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .sidebar {
+        padding: 15px;
+    }
+    
+    .main {
+        padding: 15px;
+    }
+    
+    .main h1 {
+        font-size: 24px;
+    }
+    
+    .cards {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+    
+    .card {
+        padding: 18px;
+    }
+    
+    .card h2 {
+        font-size: 32px;
+    }
+    
+.card h4 {
+    font-size: 12px;
+}
+
+/* ========== PROCESS ACTION BUTTONS ========== */
+.process-action-btn {
+    background: rgba(255, 51, 102, 0.3);
+    border: 1px solid #ff3366;
+    color: #ff3366;
+    padding: 5px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 12px;
+    transition: all 0.2s ease;
+}
+
+.process-action-btn:hover {
+    background: rgba(255, 51, 102, 0.5);
+    transform: scale(1.05);
+}
+
+/* ========== NAVIGATION ITEMS ========== */
+.nav-item {
+    padding: 16px 20px;
+    margin: 12px 0;
+    border-radius: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: 500;
+    font-size: 15px;
+    border-left: 3px solid transparent;
+    color: var(--text-secondary);
+}
+
+.nav-item:hover {
+    background: rgba(0, 255, 150, 0.15);
+    color: var(--primary-color);
+    border-left-color: var(--primary-color);
+    transform: translateX(5px);
+}
+
+.nav-item.active {
+    background: rgba(0, 255, 150, 0.2);
+    color: var(--primary-color);
+    font-weight: 700;
+    border-left-color: var(--primary-color);
+}
+    
+    .graph-box {
+        padding: 20px;
+    }
+    
+    .graph-box h3 {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+}
+
+/* ========== SCROLLBAR STYLING ========== */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(0, 255, 150, 0.05);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 255, 150, 0.3);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 255, 150, 0.6);
+}
+
+/* ========== ANIMATIONS ========== */
+@keyframes slideInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.card {
+    animation: slideInUp 0.5s ease forwards;
+}
+
+.card:nth-child(1) { animation-delay: 0.1s; }
+.card:nth-child(2) { animation-delay: 0.2s; }
+.card:nth-child(3) { animation-delay: 0.3s; }
+.card:nth-child(4) { animation-delay: 0.4s; }
