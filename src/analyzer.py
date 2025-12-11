@@ -180,6 +180,28 @@ def generate_optimization_suggestions(metrics, top_processes):
 
     return suggestions
 
+    # ================================================
+# 5. UTILITY: HUMAN-READABLE BYTE FORMATTER
+# ================================================
+def format_bytes(size_in_bytes):
+    """
+    Convert bytes into a human-readable format (KB, MB, GB).
+    A safe utility to improve dashboard or logging readability.
+    """
+    try:
+        size_in_bytes = float(size_in_bytes)
+    except Exception:
+        return "0 B"
+
+    for unit in ["B", "KB", "MB", "GB", "TB"]:
+        if size_in_bytes < 1024:
+            return f"{size_in_bytes:.2f} {unit}"
+        size_in_bytes /= 1024
+
+    return f"{size_in_bytes:.2f} PB"
+
+
+
 
 
 
