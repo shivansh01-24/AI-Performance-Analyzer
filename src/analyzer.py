@@ -180,6 +180,21 @@ def generate_optimization_suggestions(metrics, top_processes):
 
     return suggestions
 
+    # ================================================
+# 6. SAFE METRIC ACCESSOR
+# ================================================
+def safe_get(metrics, key, default=0):
+    """
+    Safely retrieve a metric without risking KeyError.
+    Helps prevent dashboard crashes when data is incomplete.
+    """
+    try:
+        return metrics.get(key, default)
+    except Exception:
+        return default
+
+
+
 
 
 
