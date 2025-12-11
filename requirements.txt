@@ -1,13 +1,24 @@
+# Core system monitoring
 psutil>=5.9.0
+
+# Data processing
 pandas>=2.0.0
-scikit-learn>=1.3.0
-plotly>=5.18.0
-dash>=2.14.0,<3.0.0
-reportlab>=4.0.0
 numpy>=1.24.0
 
-# Optional (GPU detection – safe if missing)
+# Machine Learning
+scikit-learn>=1.3.0
+joblib>=1.2.0
+
+# Web Dashboard (Dash - Professional UI)
+dash>=2.14.0,<3.0.0
+plotly>=5.18.0
+
+# PDF Reporting
+reportlab>=4.0.0
+
+# Optional: GPU monitoring (safe fallback if missing)
 GPUtil>=1.4.0
 
-pytest
-pytest-mock
+# Testing (for professional quality)
+pytest>=7.0.0
+pytest-mock>=3.10.0
