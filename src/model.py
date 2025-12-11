@@ -25,3 +25,17 @@ def train_forecast_model(csv_path="data/history.csv"):
     joblib.dump(model, MODEL_PATH)
 
     return model, model.score(X_test, y_test)
+    def load_forecast_model():
+    try:
+        return joblib.load(MODEL_PATH)
+    except:
+        return None
+
+
+def predict_future_cpu(model, current_cpu, current_mem):
+    if model is None:
+        return None
+
+    prediction = model.predict([[current_cpu, current_mem]])
+    return round(float(prediction[0]), 2)
+
