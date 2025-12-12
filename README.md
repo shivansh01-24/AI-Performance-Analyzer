@@ -58,6 +58,13 @@ python main.py
 ```
 
 ---
+## 📸 OUTPUT
+<img width="945" height="541" alt="image" src="https://github.com/user-attachments/assets/d458108d-cf43-4586-b915-c9381ec67420" />
+
+<img width="945" height="501" alt="image" src="https://github.com/user-attachments/assets/29a86c3b-bba3-4e93-bacb-5ed97fa43701" />
+
+
+
 
 ## 📦 Installation
 
