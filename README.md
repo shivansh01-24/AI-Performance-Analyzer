@@ -268,3 +268,11 @@ If you want, I can next:
 - Polish your project for **resume or LinkedIn**  
 
 Just tell me.
+
+
+
+Contributors
+Name	Role / Contribution Summary
+Shivansh Srivastava	Project Lead, Core Developer, System Architecture
+Aditya Singh	Code Enhancements & Feature Improvements (AI Module Update)
+Naman Gupta	Code Optimization & Maintenance (CPU Analysis Helper Update)
