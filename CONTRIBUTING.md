@@ -78,4 +78,30 @@ Feel free to open an issue with the question label, or reach out via GitHub Disc
 Thank you for helping make AI Performance Analyzer better!
 textJust create the file `CONTRIBUTING.md` in your repo root, paste the entire content above, commit, and push.
 
-It’s clean, professional, and matches the style used by many popular open-source projects. Let me know i
+
+
+# Project Contributors
+
+This project has been collaboratively developed by the following team members.  
+All contributors have participated equally in the design, development, and refinement of the project.
+
+---
+
+## Team Members
+
+### 1. Shivansh Srivastava
+- Core team member  
+- Contributed to project development and implementation
+
+### 2. Aditya Singh
+- Core team member  
+- Contributed to project development and implementation
+
+### 3. Naman Gupta
+- Core team member  
+- Contributed to project development and implementation
+
+---
+
+We acknowledge the collective effort, collaboration, and commitment of all team members throughout the development of this project.
+
