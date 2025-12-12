@@ -412,3 +412,10 @@ Made with ❤️ by the AI Performance Analyzer Team
 **⭐ Star us on GitHub if you like this project!**
 
 </div>
+
+
+Contributors
+Name	Contribution Summary
+Shivansh Srivastava	Core team member and contributor to the project development
+Aditya Singh	Core team member and contributor to the project development
+Naman Gupta	Core team member and contributor to the project development
