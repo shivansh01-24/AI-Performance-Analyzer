@@ -122,6 +122,11 @@ AI-Performance-Analyzer/
 - Machine learning for system intelligence  
 
 ---
+Contributors
+Name	Contribution Summary
+Shivansh Srivastava	Core team member and contributor to the project development
+Aditya Singh	Core team member and contributor to the project development
+Naman Gupta	Core team member and contributor to the project development
 
 ## 📦 Installation
 
@@ -271,8 +276,4 @@ Just tell me.
 
 
 
-Contributors
-Name	Role / Contribution Summary
-Shivansh Srivastava	Project Lead, Core Developer, System Architecture
-Aditya Singh	Code Enhancements & Feature Improvements (AI Module Update)
-Naman Gupta	Code Optimization & Maintenance (CPU Analysis Helper Update)
+
