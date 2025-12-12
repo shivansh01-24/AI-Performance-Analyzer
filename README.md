@@ -1,6 +1,6 @@
 1️⃣ GitHub Release Description (v0.1.0)
 
-When you click “Draft a new release” on GitHub, paste this into the description box:
+
 
 
 ## 🚀 AI Performance Analyzer v0.1.0
