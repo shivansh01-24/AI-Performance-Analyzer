@@ -30,15 +30,14 @@ When you click “Draft a new release” on GitHub, paste this into the descript
 This release marks the first stable, shareable version of the project
 and provides a strong foundation for future enhancements.
 
-2️⃣ CONTRIBUTING Link (exact line)
 
-Use this exact line wherever you mention contributions:
+2️⃣ Contributors
+Shivansh Srivastava	Core team member and contributor to the project development
+Aditya Singh	Core team member and contributor to the project development
+Naman Gupta	Core team member and contributor to the project development
 
 For more details, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-3️⃣ ✅ FINAL README.md (FULL, UPDATED, READY TO USE)
-
-Copy everything below into your README.md
 
 # 🚀 AI Performance Analyzer
 
@@ -122,11 +121,7 @@ AI-Performance-Analyzer/
 - Machine learning for system intelligence  
 
 ---
-Contributors
-Name	Contribution Summary
-Shivansh Srivastava	Core team member and contributor to the project development
-Aditya Singh	Core team member and contributor to the project development
-Naman Gupta	Core team member and contributor to the project development
+
 
 ## 📦 Installation
 
@@ -273,6 +268,7 @@ If you want, I can next:
 - Polish your project for **resume or LinkedIn**  
 
 Just tell me.
+--
 
 
 
